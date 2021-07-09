@@ -1,6 +1,6 @@
-# WikiCFPRSS
-WikiCFPのRSSをチェックするためのリポジトリ([osmos::feed](https://github.com/osmoscraft/osmosfeed)を使用)
+# ML-info-RSS
+WikiCFPのRSSをチェックするためのリポジトリ
 
 # Link
 - [WikiCFP](http://www.wikicfp.com/cfp/)
-- [osmos::feed](https://github.com/osmoscraft/osmosfeed
+- [osmos::feed](https://github.com/osmoscraft/osmosfeed)
