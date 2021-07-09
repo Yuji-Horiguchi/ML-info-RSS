@@ -6,83 +6,65 @@
       "siteUrl": "http://www.wikicfp.com/cfp/call?conference=machine%20learning",
       "articles": [
         {
-          "id": "cfp-892916-S@wikicfp.com",
+          "id": "cfp-894225-S@wikicfp.com",
           "author": null,
-          "description": "International Symposium on Intelligent Computing Systems - ISICS 2022  [Santiago de Chile, Chile] [Mar 23, 2022 - Mar 25, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137507&copyownerid=77325",
-          "publishedOn": "2021-07-09T04:55:24.355Z",
-          "wordCount": 601,
-          "title": "ISICS 2022 : International Symposium on Intelligent Computing Systems - ISICS 2022"
-        },
-        {
-          "id": "cfp-891986-S@wikicfp.com",
-          "author": null,
-          "description": "18th International Conference on Machine Learning and Data Mining [New York, USA] [Jul 16, 2022 - Jul 21, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137130&copyownerid=102557",
-          "publishedOn": "2021-07-09T04:55:24.334Z",
-          "wordCount": 880,
-          "title": "MLDM 2022 : 18th International Conference on Machine Learning and Data Mining"
+          "description": "2nd International Conference on Machine Learning & Trends  [London, United Kingdom] [Jul 24, 2021 - Jul 25, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138384&copyownerid=33993",
+          "publishedOn": "2021-07-09T04:58:10.290Z",
+          "wordCount": 653,
+          "title": "MLT 2021 : 2nd International Conference on Machine Learning &amp; Trends"
         },
         {
           "id": "cfp-893045-S@wikicfp.com",
           "author": null,
           "description": "MLCS2021@ECMLPKDD: The 3th Workshop on Machine Learning for CyberSecurity 2021-Extended deadline (June 30) [Bilbao,Spain] [Sep 13, 2021 - Sep 13, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137595&copyownerid=168832",
-          "publishedOn": "2021-07-09T04:55:24.323Z",
+          "publishedOn": "2021-07-09T04:58:10.284Z",
           "wordCount": 878,
           "title": "MLCS2021@ECMLPKDD 2021 : MLCS2021@ECMLPKDD: The 3th Workshop on Machine Learning for CyberSecurity 2021-Extended deadline (June 30)"
-        },
-        {
-          "id": "cfp-893475-S@wikicfp.com",
-          "author": null,
-          "description": "LWDA 2021 (Lernen, Wissen, Daten, Analysen) [online] [Sep 1, 2021 - Sep 3, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137866&copyownerid=146372",
-          "publishedOn": "2021-07-09T04:55:24.307Z",
-          "wordCount": 467,
-          "title": "LWDA - 2021 2021 : LWDA 2021 (Lernen, Wissen, Daten, Analysen)"
         },
         {
           "id": "cfp-893245-S@wikicfp.com",
           "author": null,
           "description": "Computer Vision and Pattern Recognition [New Orleans, Louisiana] [Jun 19, 2022 - Jun 24, 2022]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137738&copyownerid=169708",
-          "publishedOn": "2021-07-09T04:55:24.287Z",
+          "publishedOn": "2021-07-09T04:58:10.272Z",
           "wordCount": 465,
           "title": "CVPR 2022 : Computer Vision and Pattern Recognition"
-        },
-        {
-          "id": "cfp-892689-S@wikicfp.com",
-          "author": null,
-          "description": "The Sixth International Workshop on GPU Computing and AI [Matsue, Japan] [Nov 23, 2021 - Nov 26, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137439&copyownerid=86982",
-          "publishedOn": "2021-07-09T04:55:24.278Z",
-          "wordCount": 899,
-          "title": "GCA 2021 : The Sixth International Workshop on GPU Computing and AI"
-        },
-        {
-          "id": "cfp-894209-S@wikicfp.com",
-          "author": null,
-          "description": "International Conference on Statistics and Machine Learning in Electronics [Sofia, Bulgaria] [May 12, 2022 - May 13, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138372&copyownerid=9913",
-          "publishedOn": "2021-07-09T04:55:24.272Z",
-          "wordCount": 384,
-          "title": "ICSMLE 2022 : International Conference on Statistics and Machine Learning in Electronics"
         },
         {
           "id": "cfp-891957-S@wikicfp.com",
           "author": null,
           "description": "Data for AI: Patient Safety, Laboratory Interoperability, and SHIELD with Gregory Pappas, Associate Director for National Surveillance at the FDA [Virtual Event ] [Jul 1, 2021 - Jul 1, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137122&copyownerid=169298",
-          "publishedOn": "2021-07-09T04:55:24.268Z",
+          "publishedOn": "2021-07-09T04:58:10.253Z",
           "wordCount": 499,
           "title": "D4AIJULYFDA 2021 : Data for AI: Patient Safety, Laboratory Interoperability, and SHIELD with Gregory Pappas, Associate Director for National Surveillance at the FDA"
+        },
+        {
+          "id": "cfp-894209-S@wikicfp.com",
+          "author": null,
+          "description": "International Conference on Statistics and Machine Learning in Electronics [Sofia, Bulgaria] [May 12, 2022 - May 13, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138372&copyownerid=9913",
+          "publishedOn": "2021-07-09T04:58:10.246Z",
+          "wordCount": 384,
+          "title": "ICSMLE 2022 : International Conference on Statistics and Machine Learning in Electronics"
+        },
+        {
+          "id": "cfp-893780-S@wikicfp.com",
+          "author": null,
+          "description": "ACM--2022 7th International Conference on Machine Learning Technologies (ICMLT 2022)--Ei Compendex, Scopus [Rome, Italy] [Mar 11, 2022 - Mar 13, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138054&copyownerid=13881",
+          "publishedOn": "2021-07-09T04:58:10.154Z",
+          "wordCount": 427,
+          "title": "ACM--ICMLT--Ei and Scopus 2022 : ACM--2022 7th International Conference on Machine Learning Technologies (ICMLT 2022)--Ei Compendex, Scopus"
         },
         {
           "id": "cfp-894152-S@wikicfp.com",
           "author": null,
           "description": "SNMAM 2021: Social Network and Media Analysis and Mining [Lima, Peru] [Oct 28, 2021 - Oct 30, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138319&copyownerid=125739",
-          "publishedOn": "2021-07-09T04:55:24.264Z",
+          "publishedOn": "2021-07-09T04:58:10.131Z",
           "wordCount": 1270,
           "title": "SNMAM  2021 : SNMAM 2021: Social Network and Media Analysis and Mining"
         },
@@ -91,97 +73,115 @@
           "author": null,
           "description": "Winter Conference on Applications of Computer Vision [Waikoloa, HI] [Jan 4, 2022 - Jan 8, 2022]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137737&copyownerid=169708",
-          "publishedOn": "2021-07-09T04:55:24.259Z",
+          "publishedOn": "2021-07-09T04:58:10.126Z",
           "wordCount": 497,
           "title": "WACV 2022 : Winter Conference on Applications of Computer Vision"
-        },
-        {
-          "id": "cfp-893458-S@wikicfp.com",
-          "author": null,
-          "description": "IEEE Big Data 2021 Workshop on Multimodal Big Data [Online] [Dec 15, 2021 - Dec 18, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137856&copyownerid=169910",
-          "publishedOn": "2021-07-09T04:55:24.254Z",
-          "wordCount": 790,
-          "title": "IEEE Big Data - MMBD 2021 : IEEE Big Data 2021 Workshop on Multimodal Big Data"
-        },
-        {
-          "id": "cfp-893780-S@wikicfp.com",
-          "author": null,
-          "description": "ACM--2022 7th International Conference on Machine Learning Technologies (ICMLT 2022)--Ei Compendex, Scopus [Rome, Italy] [Mar 11, 2022 - Mar 13, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138054&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.247Z",
-          "wordCount": 427,
-          "title": "ACM--ICMLT--Ei and Scopus 2022 : ACM--2022 7th International Conference on Machine Learning Technologies (ICMLT 2022)--Ei Compendex, Scopus"
-        },
-        {
-          "id": "cfp-894225-S@wikicfp.com",
-          "author": null,
-          "description": "2nd International Conference on Machine Learning & Trends  [London, United Kingdom] [Jul 24, 2021 - Jul 25, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138384&copyownerid=33993",
-          "publishedOn": "2021-07-09T04:55:24.232Z",
-          "wordCount": 653,
-          "title": "MLT 2021 : 2nd International Conference on Machine Learning &amp; Trends"
-        },
-        {
-          "id": "cfp-894446-S@wikicfp.com",
-          "author": null,
-          "description": "The 12th IEEE International Conference on Big Knowledge [Auckland, New Zealand] [Dec 7, 2021 - Dec 8, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138552&copyownerid=170026",
-          "publishedOn": "2021-07-09T04:55:24.226Z",
-          "wordCount": 827,
-          "title": "ICBK 2021 : The 12th IEEE International Conference on Big Knowledge"
         },
         {
           "id": "cfp-893872-S@wikicfp.com",
           "author": null,
           "description": "Northern Lights Deep Learning Conference 2022 [Tromsø, Norway] [Jan 10, 2022 - Jan 12, 2022]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138133&copyownerid=169968",
-          "publishedOn": "2021-07-09T04:55:24.203Z",
+          "publishedOn": "2021-07-09T04:58:10.116Z",
           "wordCount": 495,
           "title": "NLDL 2022 : Northern Lights Deep Learning Conference 2022"
         },
         {
-          "id": "cfp-893989-S@wikicfp.com",
+          "id": "cfp-893458-S@wikicfp.com",
           "author": null,
-          "description": "ASME JCISE Special Issue on Machine Intelligence for Engineering under Uncertainties",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138224&copyownerid=66551",
-          "publishedOn": "2021-07-09T04:55:24.198Z",
-          "wordCount": 834,
-          "title": "Intelligence for Engineering 2022 : ASME JCISE Special Issue on Machine Intelligence for Engineering under Uncertainties"
+          "description": "IEEE Big Data 2021 Workshop on Multimodal Big Data [Online] [Dec 15, 2021 - Dec 18, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137856&copyownerid=169910",
+          "publishedOn": "2021-07-09T04:58:10.075Z",
+          "wordCount": 790,
+          "title": "IEEE Big Data - MMBD 2021 : IEEE Big Data 2021 Workshop on Multimodal Big Data"
         },
         {
-          "id": "cfp-894473-S@wikicfp.com",
+          "id": "cfp-891986-S@wikicfp.com",
           "author": null,
-          "description": "Fifth Workshop on Distributed Infrastructures for Deep Learning [Québec, Canada] [Dec 6, 2021 - Dec 10, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138566&copyownerid=120063",
-          "publishedOn": "2021-07-09T04:55:24.191Z",
-          "wordCount": 864,
-          "title": "DIDL 2021 : Fifth Workshop on Distributed Infrastructures for Deep Learning"
+          "description": "18th International Conference on Machine Learning and Data Mining [New York, USA] [Jul 16, 2022 - Jul 21, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137130&copyownerid=102557",
+          "publishedOn": "2021-07-09T04:58:10.065Z",
+          "wordCount": 880,
+          "title": "MLDM 2022 : 18th International Conference on Machine Learning and Data Mining"
         },
         {
           "id": "cfp-894230-S@wikicfp.com",
           "author": null,
           "description": "The 6th International Workshop on Reliability and Security Data Analysis [Wuhan, China] [Oct 25, 2021 - Oct 28, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138388&copyownerid=163914",
-          "publishedOn": "2021-07-09T04:55:24.170Z",
+          "publishedOn": "2021-07-09T04:58:10.033Z",
           "wordCount": 920,
           "title": "RSDA 2021 : The 6th International Workshop on Reliability and Security Data Analysis"
+        },
+        {
+          "id": "cfp-893475-S@wikicfp.com",
+          "author": null,
+          "description": "LWDA 2021 (Lernen, Wissen, Daten, Analysen) [online] [Sep 1, 2021 - Sep 3, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137866&copyownerid=146372",
+          "publishedOn": "2021-07-09T04:58:09.960Z",
+          "wordCount": 467,
+          "title": "LWDA - 2021 2021 : LWDA 2021 (Lernen, Wissen, Daten, Analysen)"
+        },
+        {
+          "id": "cfp-893989-S@wikicfp.com",
+          "author": null,
+          "description": "ASME JCISE Special Issue on Machine Intelligence for Engineering under Uncertainties",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138224&copyownerid=66551",
+          "publishedOn": "2021-07-09T04:58:09.955Z",
+          "wordCount": 834,
+          "title": "Intelligence for Engineering 2022 : ASME JCISE Special Issue on Machine Intelligence for Engineering under Uncertainties"
+        },
+        {
+          "id": "cfp-892916-S@wikicfp.com",
+          "author": null,
+          "description": "International Symposium on Intelligent Computing Systems - ISICS 2022  [Santiago de Chile, Chile] [Mar 23, 2022 - Mar 25, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137507&copyownerid=77325",
+          "publishedOn": "2021-07-09T04:58:09.943Z",
+          "wordCount": 601,
+          "title": "ISICS 2022 : International Symposium on Intelligent Computing Systems - ISICS 2022"
+        },
+        {
+          "id": "cfp-892689-S@wikicfp.com",
+          "author": null,
+          "description": "The Sixth International Workshop on GPU Computing and AI [Matsue, Japan] [Nov 23, 2021 - Nov 26, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137439&copyownerid=86982",
+          "publishedOn": "2021-07-09T04:58:09.894Z",
+          "wordCount": 899,
+          "title": "GCA 2021 : The Sixth International Workshop on GPU Computing and AI"
+        },
+        {
+          "id": "cfp-894473-S@wikicfp.com",
+          "author": null,
+          "description": "Fifth Workshop on Distributed Infrastructures for Deep Learning [Québec, Canada] [Dec 6, 2021 - Dec 10, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138566&copyownerid=120063",
+          "publishedOn": "2021-07-09T04:58:09.855Z",
+          "wordCount": 864,
+          "title": "DIDL 2021 : Fifth Workshop on Distributed Infrastructures for Deep Learning"
         },
         {
           "id": "cfp-894616-S@wikicfp.com",
           "author": null,
           "description": "25th International Conference on Artificial Intelligence and Statistics [Valencia, Spain] [Mar 30, 2022 - Apr 1, 2022]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138697&copyownerid=13149",
-          "publishedOn": "2021-07-09T04:55:24.160Z",
+          "publishedOn": "2021-07-09T04:58:09.816Z",
           "wordCount": 1320,
           "title": "AISTATS 2022 : 25th International Conference on Artificial Intelligence and Statistics"
+        },
+        {
+          "id": "cfp-894446-S@wikicfp.com",
+          "author": null,
+          "description": "The 12th IEEE International Conference on Big Knowledge [Auckland, New Zealand] [Dec 7, 2021 - Dec 8, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138552&copyownerid=170026",
+          "publishedOn": "2021-07-09T04:58:09.801Z",
+          "wordCount": 827,
+          "title": "ICBK 2021 : The 12th IEEE International Conference on Big Knowledge"
         },
         {
           "id": "cfp-894620-S@wikicfp.com",
           "author": null,
           "description": "2nd International Conference on Machine Learning Techniques and NLP [Copenhagen, Denmark] [Sep 18, 2021 - Sep 19, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138700&copyownerid=33993",
-          "publishedOn": "2021-07-09T04:55:24.151Z",
+          "publishedOn": "2021-07-09T04:58:09.774Z",
           "wordCount": 659,
           "title": "MLNLP 2021 : 2nd International Conference on Machine Learning Techniques and NLP"
         }
@@ -193,174 +193,174 @@
       "siteUrl": "http://www.wikicfp.com/cfp/call?conference=natural%20language%20processing",
       "articles": [
         {
-          "id": "cfp-883026-S@wikicfp.com",
-          "author": null,
-          "description": "2021 KDD Workshop on Programming Language Processing (PLP 2021) [Virtual ] [Aug 14, 2021 - Aug 18, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=131117&copyownerid=43516",
-          "publishedOn": "2021-07-09T04:55:24.211Z",
-          "wordCount": 809,
-          "title": "PLP 2021 : 2021 KDD Workshop on Programming Language Processing (PLP 2021)"
-        },
-        {
           "id": "cfp-884378-S@wikicfp.com",
           "author": null,
           "description": "** RepL4NLP-2021 Deadline Extended ** Last Call for Papers: the 6th Workshop on Representation Learning for NLP [Online] [Aug 5, 2021 - Aug 6, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=132015&copyownerid=166969",
-          "publishedOn": "2021-07-09T04:55:24.102Z",
+          "publishedOn": "2021-07-09T04:58:09.839Z",
           "wordCount": 1076,
           "title": "RepL4NLP 2021 : ** RepL4NLP-2021 Deadline Extended ** Last Call for Papers: the 6th Workshop on Representation Learning for NLP"
-        },
-        {
-          "id": "cfp-883954-S@wikicfp.com",
-          "author": null,
-          "description": "Last Call for Papers: the 6th Workshop on Representation Learning for NLP [Online] [Aug 5, 2021 - Aug 6, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=131760&copyownerid=166969",
-          "publishedOn": "2021-07-09T04:55:24.095Z",
-          "wordCount": 1016,
-          "title": "RepL4NLP 2021 : Last Call for Papers: the 6th Workshop on Representation Learning for NLP"
         },
         {
           "id": "cfp-884006-S@wikicfp.com",
           "author": null,
           "description": "4th International Conference on Natural Language and Speech Processing [Trento, Italy] [Nov 12, 2021 - Nov 13, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=131790&copyownerid=74305",
-          "publishedOn": "2021-07-09T04:55:24.088Z",
+          "publishedOn": "2021-07-09T04:58:09.830Z",
           "wordCount": 594,
           "title": "ICNLSP 2021 : 4th International Conference on Natural Language and Speech Processing"
         },
         {
-          "id": "cfp-884711-S@wikicfp.com",
+          "id": "cfp-883954-S@wikicfp.com",
           "author": null,
-          "description": "The 3rd Financial Narrative Processing Workshop (FNP 2021) [United Kingdom] [Sep 15, 2021 - Sep 15, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=132258&copyownerid=168934",
-          "publishedOn": "2021-07-09T04:55:24.083Z",
-          "wordCount": 1111,
-          "title": "FNP 2021 : The 3rd Financial Narrative Processing Workshop (FNP 2021)"
-        },
-        {
-          "id": "cfp-886928-S@wikicfp.com",
-          "author": null,
-          "description": "3rd International Conference on Natural Language Computing and AI [Sydney, Australia] [Mar 26, 2022 - Mar 27, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=133883&copyownerid=46167",
-          "publishedOn": "2021-07-09T04:55:24.077Z",
-          "wordCount": 666,
-          "title": "NLCAI 2022 : 3rd International Conference on Natural Language Computing and AI"
-        },
-        {
-          "id": "cfp-886599-S@wikicfp.com",
-          "author": null,
-          "description": "Logical Aspects of Computational Linguistics [Online] [Dec 13, 2021 - Dec 17, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=133662&copyownerid=169154",
-          "publishedOn": "2021-07-09T04:55:24.068Z",
-          "wordCount": 551,
-          "title": "LACL 2021 : Logical Aspects of Computational Linguistics"
+          "description": "Last Call for Papers: the 6th Workshop on Representation Learning for NLP [Online] [Aug 5, 2021 - Aug 6, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=131760&copyownerid=166969",
+          "publishedOn": "2021-07-09T04:58:09.822Z",
+          "wordCount": 1016,
+          "title": "RepL4NLP 2021 : Last Call for Papers: the 6th Workshop on Representation Learning for NLP"
         },
         {
           "id": "cfp-884738-S@wikicfp.com",
           "author": null,
           "description": "FNS-2021 Shared Task: “Financial Narrative Summarisation”, 3rd Financial Narrative Processing Workshop (FNP 2021) [United Kingdom] [Sep 15, 2021 - Sep 16, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=132266&copyownerid=168934",
-          "publishedOn": "2021-07-09T04:55:24.059Z",
+          "publishedOn": "2021-07-09T04:58:09.809Z",
           "wordCount": 826,
           "title": "FNS 2021 : FNS-2021 Shared Task: “Financial Narrative Summarisation”, 3rd Financial Narrative Processing Workshop (FNP 2021)"
         },
         {
-          "id": "cfp-885723-S@wikicfp.com",
+          "id": "cfp-883026-S@wikicfp.com",
           "author": null,
-          "description": "Second International Workshop on Mining and Learning in the Legal Domain [Auckland, New Zealand] [Dec 7, 2021 - Dec 7, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=133033&copyownerid=162721",
-          "publishedOn": "2021-07-09T04:55:24.050Z",
-          "wordCount": 739,
-          "title": "MLLD 2021 : Second International Workshop on Mining and Learning in the Legal Domain"
+          "description": "2021 KDD Workshop on Programming Language Processing (PLP 2021) [Virtual ] [Aug 14, 2021 - Aug 18, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=131117&copyownerid=43516",
+          "publishedOn": "2021-07-09T04:58:09.795Z",
+          "wordCount": 809,
+          "title": "PLP 2021 : 2021 KDD Workshop on Programming Language Processing (PLP 2021)"
         },
         {
-          "id": "cfp-887319-S@wikicfp.com",
+          "id": "cfp-884711-S@wikicfp.com",
           "author": null,
-          "description": "PROPOR 2022 - 15th International Conference on Computational Processing of Portuguese  [Fortaleza, Brazil] [Mar 21, 2022 - Mar 22, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=134192&copyownerid=169262",
-          "publishedOn": "2021-07-09T04:55:24.031Z",
-          "wordCount": 878,
-          "title": "PROPOR 2022 : PROPOR 2022 - 15th International Conference on Computational Processing of Portuguese"
-        },
-        {
-          "id": "cfp-887331-S@wikicfp.com",
-          "author": null,
-          "description": "10th International Conference on Natural Language Processing  [Sydney, Australia] [Dec 23, 2021 - Dec 24, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=134199&copyownerid=33993",
-          "publishedOn": "2021-07-09T04:55:24.021Z",
-          "wordCount": 617,
-          "title": "NLP 2021 : 10th International Conference on Natural Language Processing"
-        },
-        {
-          "id": "cfp-887019-S@wikicfp.com",
-          "author": null,
-          "description": "Special Issue on Applications of Speech and Language Technologies            in Healthcare",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=133963&copyownerid=320",
-          "publishedOn": "2021-07-09T04:55:24.008Z",
-          "wordCount": 655,
-          "title": "AS-ASLT 2021 : Special Issue on Applications of Speech and Language Technologies            in Healthcare"
+          "description": "The 3rd Financial Narrative Processing Workshop (FNP 2021) [United Kingdom] [Sep 15, 2021 - Sep 15, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=132258&copyownerid=168934",
+          "publishedOn": "2021-07-09T04:58:09.788Z",
+          "wordCount": 1111,
+          "title": "FNP 2021 : The 3rd Financial Narrative Processing Workshop (FNP 2021)"
         },
         {
           "id": "cfp-885822-S@wikicfp.com",
           "author": null,
           "description": "International Conference on Computing and Information Technology [Dubai, UAE] [Aug 28, 2021 - Aug 29, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=133112&copyownerid=33993",
-          "publishedOn": "2021-07-09T04:55:23.981Z",
+          "publishedOn": "2021-07-09T04:58:09.634Z",
           "wordCount": 725,
           "title": "COIT  2021 : International Conference on Computing and Information Technology"
-        },
-        {
-          "id": "cfp-888398-S@wikicfp.com",
-          "author": null,
-          "description": "Leveraging easy-to-use ML, NLP & Interactive 3D Data Visualization to Uncover Key Insights with Virtualitics (12PM - 1PM ET) [Online Virtual Event ] [Jun 10, 2021 - Jun 10, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=134927&copyownerid=169298",
-          "publishedOn": "2021-07-09T04:55:23.964Z",
-          "wordCount": 493,
-          "title": "D4AIJune 2021 : Leveraging easy-to-use ML, NLP &amp; Interactive 3D Data Visualization to Uncover Key Insights with Virtualitics (12PM - 1PM ET)"
-        },
-        {
-          "id": "cfp-893637-S@wikicfp.com",
-          "author": null,
-          "description": "NL-Augmenter (GEM@ACL) [GEM@ACL 2021] [Aug 5, 2021 - Aug 6, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137982&copyownerid=150031",
-          "publishedOn": "2021-07-09T04:55:23.956Z",
-          "wordCount": 501,
-          "title": "NL-Augmenter 2021 : NL-Augmenter (GEM@ACL)"
         },
         {
           "id": "cfp-890686-S@wikicfp.com",
           "author": null,
           "description": "2nd International conference on Advanced Natural Language Processing [London, United Kingdom] [Jul 24, 2021 - Jul 25, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=136303&copyownerid=33993",
-          "publishedOn": "2021-07-09T04:55:23.941Z",
+          "publishedOn": "2021-07-09T04:58:09.617Z",
           "wordCount": 666,
           "title": "AdNLP 2021 : 2nd International conference on Advanced Natural Language Processing"
+        },
+        {
+          "id": "cfp-888398-S@wikicfp.com",
+          "author": null,
+          "description": "Leveraging easy-to-use ML, NLP & Interactive 3D Data Visualization to Uncover Key Insights with Virtualitics (12PM - 1PM ET) [Online Virtual Event ] [Jun 10, 2021 - Jun 10, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=134927&copyownerid=169298",
+          "publishedOn": "2021-07-09T04:58:09.604Z",
+          "wordCount": 493,
+          "title": "D4AIJune 2021 : Leveraging easy-to-use ML, NLP &amp; Interactive 3D Data Visualization to Uncover Key Insights with Virtualitics (12PM - 1PM ET)"
+        },
+        {
+          "id": "cfp-886599-S@wikicfp.com",
+          "author": null,
+          "description": "Logical Aspects of Computational Linguistics [Online] [Dec 13, 2021 - Dec 17, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=133662&copyownerid=169154",
+          "publishedOn": "2021-07-09T04:58:09.597Z",
+          "wordCount": 551,
+          "title": "LACL 2021 : Logical Aspects of Computational Linguistics"
         },
         {
           "id": "cfp-892916-S@wikicfp.com",
           "author": null,
           "description": "International Symposium on Intelligent Computing Systems - ISICS 2022  [Santiago de Chile, Chile] [Mar 23, 2022 - Mar 25, 2022]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137507&copyownerid=77325",
-          "publishedOn": "2021-07-09T04:55:23.927Z",
+          "publishedOn": "2021-07-09T04:58:09.588Z",
           "wordCount": 601,
           "title": "ISICS 2022 : International Symposium on Intelligent Computing Systems - ISICS 2022"
         },
         {
-          "id": "cfp-894229-S@wikicfp.com",
+          "id": "cfp-887019-S@wikicfp.com",
           "author": null,
-          "description": "The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing  [Ayutthaya, Thailand] [Dec 21, 2021 - Dec 23, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138387&copyownerid=169997",
-          "publishedOn": "2021-07-09T04:55:23.881Z",
-          "wordCount": 663,
-          "title": "iSAI-NLP 2021 : The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing"
+          "description": "Special Issue on Applications of Speech and Language Technologies            in Healthcare",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=133963&copyownerid=320",
+          "publishedOn": "2021-07-09T04:58:09.580Z",
+          "wordCount": 655,
+          "title": "AS-ASLT 2021 : Special Issue on Applications of Speech and Language Technologies            in Healthcare"
         },
         {
           "id": "cfp-894187-S@wikicfp.com",
           "author": null,
           "description": "The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing  [Ayutthaya, Thailand] [Dec 21, 2021 - Dec 23, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138352&copyownerid=169997",
-          "publishedOn": "2021-07-09T04:55:23.865Z",
+          "publishedOn": "2021-07-09T04:58:09.559Z",
           "wordCount": 735,
+          "title": "iSAI-NLP 2021 : The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing"
+        },
+        {
+          "id": "cfp-885723-S@wikicfp.com",
+          "author": null,
+          "description": "Second International Workshop on Mining and Learning in the Legal Domain [Auckland, New Zealand] [Dec 7, 2021 - Dec 7, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=133033&copyownerid=162721",
+          "publishedOn": "2021-07-09T04:58:09.547Z",
+          "wordCount": 739,
+          "title": "MLLD 2021 : Second International Workshop on Mining and Learning in the Legal Domain"
+        },
+        {
+          "id": "cfp-887331-S@wikicfp.com",
+          "author": null,
+          "description": "10th International Conference on Natural Language Processing  [Sydney, Australia] [Dec 23, 2021 - Dec 24, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=134199&copyownerid=33993",
+          "publishedOn": "2021-07-09T04:58:09.540Z",
+          "wordCount": 617,
+          "title": "NLP 2021 : 10th International Conference on Natural Language Processing"
+        },
+        {
+          "id": "cfp-887319-S@wikicfp.com",
+          "author": null,
+          "description": "PROPOR 2022 - 15th International Conference on Computational Processing of Portuguese  [Fortaleza, Brazil] [Mar 21, 2022 - Mar 22, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=134192&copyownerid=169262",
+          "publishedOn": "2021-07-09T04:58:09.529Z",
+          "wordCount": 878,
+          "title": "PROPOR 2022 : PROPOR 2022 - 15th International Conference on Computational Processing of Portuguese"
+        },
+        {
+          "id": "cfp-886928-S@wikicfp.com",
+          "author": null,
+          "description": "3rd International Conference on Natural Language Computing and AI [Sydney, Australia] [Mar 26, 2022 - Mar 27, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=133883&copyownerid=46167",
+          "publishedOn": "2021-07-09T04:58:09.512Z",
+          "wordCount": 666,
+          "title": "NLCAI 2022 : 3rd International Conference on Natural Language Computing and AI"
+        },
+        {
+          "id": "cfp-893637-S@wikicfp.com",
+          "author": null,
+          "description": "NL-Augmenter (GEM@ACL) [GEM@ACL 2021] [Aug 5, 2021 - Aug 6, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137982&copyownerid=150031",
+          "publishedOn": "2021-07-09T04:58:09.484Z",
+          "wordCount": 501,
+          "title": "NL-Augmenter 2021 : NL-Augmenter (GEM@ACL)"
+        },
+        {
+          "id": "cfp-894229-S@wikicfp.com",
+          "author": null,
+          "description": "The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing  [Ayutthaya, Thailand] [Dec 21, 2021 - Dec 23, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138387&copyownerid=169997",
+          "publishedOn": "2021-07-09T04:58:09.433Z",
+          "wordCount": 663,
           "title": "iSAI-NLP 2021 : The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing"
         },
         {
@@ -368,7 +368,7 @@
           "author": null,
           "description": "2nd International Conference on Machine Learning Techniques and NLP [Copenhagen, Denmark] [Sep 18, 2021 - Sep 19, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138700&copyownerid=33993",
-          "publishedOn": "2021-07-09T04:55:23.771Z",
+          "publishedOn": "2021-07-09T04:58:09.406Z",
           "wordCount": 659,
           "title": "MLNLP 2021 : 2nd International Conference on Machine Learning Techniques and NLP"
         }
@@ -380,83 +380,137 @@
       "siteUrl": "http://www.wikicfp.com/cfp/call?conference=artificial%20intelligence",
       "articles": [
         {
-          "id": "cfp-894057-S@wikicfp.com",
+          "id": "cfp-894415-S@wikicfp.com",
           "author": null,
-          "description": "Space and Artificial Intelligence [Online] [Sep 13, 2021 - Sep 13, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138272&copyownerid=13149",
-          "publishedOn": "2021-07-09T04:55:24.764Z",
-          "wordCount": 509,
-          "title": "SAI 2021 : Space and Artificial Intelligence"
-        },
-        {
-          "id": "cfp-894199-S@wikicfp.com",
-          "author": null,
-          "description": "IOP--2022 2nd International Conference on Artificial Intelligence in Education (ICAIE 2022)--Ei Compendex, Scopus [Chengdu, China] [Jan 6, 2022 - Jan 8, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138362&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.750Z",
-          "wordCount": 773,
-          "title": "IOP--ICAIE--Ei, Scopus 2022 : IOP--2022 2nd International Conference on Artificial Intelligence in Education (ICAIE 2022)--Ei Compendex, Scopus"
+          "description": "Fourth WORKSHOP ON KNOWLEDGE-DRIVEN ANALYTICS AND SYSTEMS  [Virtual] [Nov 1, 2021 - Nov 5, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138540&copyownerid=118084",
+          "publishedOn": "2021-07-09T04:58:10.455Z",
+          "wordCount": 461,
+          "title": "KDAH-CIKM 2021 : Fourth WORKSHOP ON KNOWLEDGE-DRIVEN ANALYTICS AND SYSTEMS"
         },
         {
           "id": "cfp-893780-S@wikicfp.com",
           "author": null,
           "description": "ACM--2022 7th International Conference on Machine Learning Technologies (ICMLT 2022)--Ei Compendex, Scopus [Rome, Italy] [Mar 11, 2022 - Mar 13, 2022]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138054&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.740Z",
+          "publishedOn": "2021-07-09T04:58:10.421Z",
           "wordCount": 427,
           "title": "ACM--ICMLT--Ei and Scopus 2022 : ACM--2022 7th International Conference on Machine Learning Technologies (ICMLT 2022)--Ei Compendex, Scopus"
         },
         {
-          "id": "cfp-893881-S@wikicfp.com",
+          "id": "cfp-893779-S@wikicfp.com",
           "author": null,
-          "description": "2022 the 5th International Conference on Intelligent Control and Computing (ICICC 2022)--Ei Compendex, Scopus [Nanjing, China] [Jan 13, 2022 - Jan 15, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138136&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.721Z",
-          "wordCount": 586,
-          "title": "ICICC--Ei Compendex, Scopus 2022 : 2022 the 5th International Conference on Intelligent Control and Computing (ICICC 2022)--Ei Compendex, Scopus"
+          "description": "2022 2nd International Conference on Computer and Communication Engineering (CCCE 2022)--Ei Compendex, Scopus [Rome, Italy] [Mar 11, 2022 - Mar 13, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138053&copyownerid=13881",
+          "publishedOn": "2021-07-09T04:58:10.415Z",
+          "wordCount": 495,
+          "title": "CCCE--Ei, Scopus 2022 : 2022 2nd International Conference on Computer and Communication Engineering (CCCE 2022)--Ei Compendex, Scopus"
         },
         {
-          "id": "cfp-894444-S@wikicfp.com",
+          "id": "cfp-894225-S@wikicfp.com",
           "author": null,
-          "description": "Artificial Intelligence and Complexity in Art, Music, Games and Design II (Special Issue JCR Q2 Entropy journal)",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138551&copyownerid=155236",
-          "publishedOn": "2021-07-09T04:55:24.698Z",
-          "wordCount": 592,
-          "title": "Special Issue (Entropy) 2022 : Artificial Intelligence and Complexity in Art, Music, Games and Design II (Special Issue JCR Q2 Entropy journal)"
+          "description": "2nd International Conference on Machine Learning & Trends  [London, United Kingdom] [Jul 24, 2021 - Jul 25, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138384&copyownerid=33993",
+          "publishedOn": "2021-07-09T04:58:10.387Z",
+          "wordCount": 653,
+          "title": "MLT 2021 : 2nd International Conference on Machine Learning &amp; Trends"
+        },
+        {
+          "id": "cfp-893989-S@wikicfp.com",
+          "author": null,
+          "description": "ASME JCISE Special Issue on Machine Intelligence for Engineering under Uncertainties",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138224&copyownerid=66551",
+          "publishedOn": "2021-07-09T04:58:10.370Z",
+          "wordCount": 834,
+          "title": "Intelligence for Engineering 2022 : ASME JCISE Special Issue on Machine Intelligence for Engineering under Uncertainties"
         },
         {
           "id": "cfp-894214-S@wikicfp.com",
           "author": null,
           "description": "2022 the 6th International Conference on Virtual and Augmented Reality Simulations (ICVARS 2022)--Ei Compendex, Scopus [Brisbane, Australia] [Mar 25, 2022 - Mar 27, 2022]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138377&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.694Z",
+          "publishedOn": "2021-07-09T04:58:10.322Z",
           "wordCount": 679,
           "title": "ICVARS--Ei Compendex, Scopus 2022 : 2022 the 6th International Conference on Virtual and Augmented Reality Simulations (ICVARS 2022)--Ei Compendex, Scopus"
-        },
-        {
-          "id": "cfp-894212-S@wikicfp.com",
-          "author": null,
-          "description": "2022 the 14th International Conference on Computer and Automation Engineering (ICCAE 2022)--Ei Compendex, Scopus [Brisbane, Australia] [Mar 25, 2022 - Mar 27, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138375&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.689Z",
-          "wordCount": 660,
-          "title": "ICCAE--Ei Compendex, Scopus 2022 : 2022 the 14th International Conference on Computer and Automation Engineering (ICCAE 2022)--Ei Compendex, Scopus"
         },
         {
           "id": "cfp-894207-S@wikicfp.com",
           "author": null,
           "description": "2022 8th International Conference on Automation, Robotics and Applications (ICARA 2022)--EI Compendex, Scopus [Prague, Czech Republic] [Feb 18, 2022 - Feb 20, 2022]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138370&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.669Z",
+          "publishedOn": "2021-07-09T04:58:10.267Z",
           "wordCount": 522,
           "title": "ICARA--EI Compendex, Scopus 2022 : 2022 8th International Conference on Automation, Robotics and Applications (ICARA 2022)--EI Compendex, Scopus"
+        },
+        {
+          "id": "cfp-894620-S@wikicfp.com",
+          "author": null,
+          "description": "2nd International Conference on Machine Learning Techniques and NLP [Copenhagen, Denmark] [Sep 18, 2021 - Sep 19, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138700&copyownerid=33993",
+          "publishedOn": "2021-07-09T04:58:10.229Z",
+          "wordCount": 659,
+          "title": "MLNLP 2021 : 2nd International Conference on Machine Learning Techniques and NLP"
+        },
+        {
+          "id": "cfp-894444-S@wikicfp.com",
+          "author": null,
+          "description": "Artificial Intelligence and Complexity in Art, Music, Games and Design II (Special Issue JCR Q2 Entropy journal)",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138551&copyownerid=155236",
+          "publishedOn": "2021-07-09T04:58:10.214Z",
+          "wordCount": 592,
+          "title": "Special Issue (Entropy) 2022 : Artificial Intelligence and Complexity in Art, Music, Games and Design II (Special Issue JCR Q2 Entropy journal)"
+        },
+        {
+          "id": "cfp-894456-S@wikicfp.com",
+          "author": null,
+          "description": "First International Workshop on eXPErt RecommendaTion for Community Question Answering (XPERT4CQA) [Melbourne, Australia] [Dec 14, 2021 - Dec 17, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138556&copyownerid=170030",
+          "publishedOn": "2021-07-09T04:58:10.200Z",
+          "wordCount": 866,
+          "title": "XPERT4CQA 2021 : First International Workshop on eXPErt RecommendaTion for Community Question Answering (XPERT4CQA)"
+        },
+        {
+          "id": "cfp-894202-S@wikicfp.com",
+          "author": null,
+          "description": "2022 11th International Conference on Educational and Information Technology (ICEIT 2022)--Ei Compendex, Scopus [Chengdu, China] [Jan 6, 2022 - Jan 8, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138365&copyownerid=13881",
+          "publishedOn": "2021-07-09T04:58:10.194Z",
+          "wordCount": 703,
+          "title": "ICEIT--Ei, Scopus 2022 : 2022 11th International Conference on Educational and Information Technology (ICEIT 2022)--Ei Compendex, Scopus"
+        },
+        {
+          "id": "cfp-894199-S@wikicfp.com",
+          "author": null,
+          "description": "IOP--2022 2nd International Conference on Artificial Intelligence in Education (ICAIE 2022)--Ei Compendex, Scopus [Chengdu, China] [Jan 6, 2022 - Jan 8, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138362&copyownerid=13881",
+          "publishedOn": "2021-07-09T04:58:10.166Z",
+          "wordCount": 773,
+          "title": "IOP--ICAIE--Ei, Scopus 2022 : IOP--2022 2nd International Conference on Artificial Intelligence in Education (ICAIE 2022)--Ei Compendex, Scopus"
+        },
+        {
+          "id": "cfp-893697-S@wikicfp.com",
+          "author": null,
+          "description": "Innovative Manufacturing, Mechatronics & Materials Forum 2021 - SCOPUS [Malaysia] [Sep 20, 2021 - Sep 20, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138023&copyownerid=103056",
+          "publishedOn": "2021-07-09T04:58:10.111Z",
+          "wordCount": 412,
+          "title": "iM3F 2021 : Innovative Manufacturing, Mechatronics &amp; Materials Forum 2021 - SCOPUS"
+        },
+        {
+          "id": "cfp-894212-S@wikicfp.com",
+          "author": null,
+          "description": "2022 the 14th International Conference on Computer and Automation Engineering (ICCAE 2022)--Ei Compendex, Scopus [Brisbane, Australia] [Mar 25, 2022 - Mar 27, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138375&copyownerid=13881",
+          "publishedOn": "2021-07-09T04:58:10.107Z",
+          "wordCount": 660,
+          "title": "ICCAE--Ei Compendex, Scopus 2022 : 2022 the 14th International Conference on Computer and Automation Engineering (ICCAE 2022)--Ei Compendex, Scopus"
         },
         {
           "id": "cfp-894211-S@wikicfp.com",
           "author": null,
           "description": "2022 International Conference on Mechatronics and Electrical Engineering (MEEE 2022)--Ei Compendex, Scopus [Prague, Czech Republic] [Feb 18, 2022 - Feb 20, 2022]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138374&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.655Z",
+          "publishedOn": "2021-07-09T04:58:10.102Z",
           "wordCount": 502,
           "title": "MEEE--Ei, Scopus 2022 : 2022 International Conference on Mechatronics and Electrical Engineering (MEEE 2022)--Ei Compendex, Scopus"
         },
@@ -465,99 +519,45 @@
           "author": null,
           "description": "ACM--2022 5th International Conference on Software Engineering and Information Management (ICSIM 2022)--EI Compendex, Scopus [Yokohama, Japan] [Jan 21, 2022 - Jan 23, 2022]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138131&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.647Z",
+          "publishedOn": "2021-07-09T04:58:10.087Z",
           "wordCount": 814,
           "title": "ACM--ICSIM--EI Compendex, Scopus 2022 : ACM--2022 5th International Conference on Software Engineering and Information Management (ICSIM 2022)--EI Compendex, Scopus"
-        },
-        {
-          "id": "cfp-893697-S@wikicfp.com",
-          "author": null,
-          "description": "Innovative Manufacturing, Mechatronics & Materials Forum 2021 - SCOPUS [Malaysia] [Sep 20, 2021 - Sep 20, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138023&copyownerid=103056",
-          "publishedOn": "2021-07-09T04:55:24.642Z",
-          "wordCount": 412,
-          "title": "iM3F 2021 : Innovative Manufacturing, Mechatronics &amp; Materials Forum 2021 - SCOPUS"
-        },
-        {
-          "id": "cfp-894415-S@wikicfp.com",
-          "author": null,
-          "description": "Fourth WORKSHOP ON KNOWLEDGE-DRIVEN ANALYTICS AND SYSTEMS  [Virtual] [Nov 1, 2021 - Nov 5, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138540&copyownerid=118084",
-          "publishedOn": "2021-07-09T04:55:24.637Z",
-          "wordCount": 461,
-          "title": "KDAH-CIKM 2021 : Fourth WORKSHOP ON KNOWLEDGE-DRIVEN ANALYTICS AND SYSTEMS"
         },
         {
           "id": "cfp-894229-S@wikicfp.com",
           "author": null,
           "description": "The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing  [Ayutthaya, Thailand] [Dec 21, 2021 - Dec 23, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138387&copyownerid=169997",
-          "publishedOn": "2021-07-09T04:55:24.631Z",
+          "publishedOn": "2021-07-09T04:58:10.082Z",
           "wordCount": 663,
           "title": "iSAI-NLP 2021 : The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing"
-        },
-        {
-          "id": "cfp-894225-S@wikicfp.com",
-          "author": null,
-          "description": "2nd International Conference on Machine Learning & Trends  [London, United Kingdom] [Jul 24, 2021 - Jul 25, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138384&copyownerid=33993",
-          "publishedOn": "2021-07-09T04:55:24.611Z",
-          "wordCount": 653,
-          "title": "MLT 2021 : 2nd International Conference on Machine Learning &amp; Trends"
-        },
-        {
-          "id": "cfp-894620-S@wikicfp.com",
-          "author": null,
-          "description": "2nd International Conference on Machine Learning Techniques and NLP [Copenhagen, Denmark] [Sep 18, 2021 - Sep 19, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138700&copyownerid=33993",
-          "publishedOn": "2021-07-09T04:55:24.606Z",
-          "wordCount": 659,
-          "title": "MLNLP 2021 : 2nd International Conference on Machine Learning Techniques and NLP"
-        },
-        {
-          "id": "cfp-893989-S@wikicfp.com",
-          "author": null,
-          "description": "ASME JCISE Special Issue on Machine Intelligence for Engineering under Uncertainties",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138224&copyownerid=66551",
-          "publishedOn": "2021-07-09T04:55:24.550Z",
-          "wordCount": 834,
-          "title": "Intelligence for Engineering 2022 : ASME JCISE Special Issue on Machine Intelligence for Engineering under Uncertainties"
         },
         {
           "id": "cfp-894187-S@wikicfp.com",
           "author": null,
           "description": "The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing  [Ayutthaya, Thailand] [Dec 21, 2021 - Dec 23, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138352&copyownerid=169997",
-          "publishedOn": "2021-07-09T04:55:24.497Z",
+          "publishedOn": "2021-07-09T04:58:10.058Z",
           "wordCount": 735,
           "title": "iSAI-NLP 2021 : The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing"
         },
         {
-          "id": "cfp-894202-S@wikicfp.com",
+          "id": "cfp-893881-S@wikicfp.com",
           "author": null,
-          "description": "2022 11th International Conference on Educational and Information Technology (ICEIT 2022)--Ei Compendex, Scopus [Chengdu, China] [Jan 6, 2022 - Jan 8, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138365&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.492Z",
-          "wordCount": 703,
-          "title": "ICEIT--Ei, Scopus 2022 : 2022 11th International Conference on Educational and Information Technology (ICEIT 2022)--Ei Compendex, Scopus"
+          "description": "2022 the 5th International Conference on Intelligent Control and Computing (ICICC 2022)--Ei Compendex, Scopus [Nanjing, China] [Jan 13, 2022 - Jan 15, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138136&copyownerid=13881",
+          "publishedOn": "2021-07-09T04:58:09.937Z",
+          "wordCount": 586,
+          "title": "ICICC--Ei Compendex, Scopus 2022 : 2022 the 5th International Conference on Intelligent Control and Computing (ICICC 2022)--Ei Compendex, Scopus"
         },
         {
-          "id": "cfp-893779-S@wikicfp.com",
+          "id": "cfp-894057-S@wikicfp.com",
           "author": null,
-          "description": "2022 2nd International Conference on Computer and Communication Engineering (CCCE 2022)--Ei Compendex, Scopus [Rome, Italy] [Mar 11, 2022 - Mar 13, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138053&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.482Z",
-          "wordCount": 495,
-          "title": "CCCE--Ei, Scopus 2022 : 2022 2nd International Conference on Computer and Communication Engineering (CCCE 2022)--Ei Compendex, Scopus"
-        },
-        {
-          "id": "cfp-894456-S@wikicfp.com",
-          "author": null,
-          "description": "First International Workshop on eXPErt RecommendaTion for Community Question Answering (XPERT4CQA) [Melbourne, Australia] [Dec 14, 2021 - Dec 17, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138556&copyownerid=170030",
-          "publishedOn": "2021-07-09T04:55:24.475Z",
-          "wordCount": 866,
-          "title": "XPERT4CQA 2021 : First International Workshop on eXPErt RecommendaTion for Community Question Answering (XPERT4CQA)"
+          "description": "Space and Artificial Intelligence [Online] [Sep 13, 2021 - Sep 13, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138272&copyownerid=13149",
+          "publishedOn": "2021-07-09T04:58:09.887Z",
+          "wordCount": 509,
+          "title": "SAI 2021 : Space and Artificial Intelligence"
         }
       ]
     },
@@ -567,184 +567,184 @@
       "siteUrl": "http://www.wikicfp.com/cfp/call?conference=deep%20learning",
       "articles": [
         {
-          "id": "cfp-884609-S@wikicfp.com",
+          "id": "cfp-886967-S@wikicfp.com",
           "author": null,
-          "description": "Artificial Intelligence in Radiomics - Contrast Media & Molecular Imaging 2021",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=132210&copyownerid=82002",
-          "publishedOn": "2021-07-09T04:55:24.685Z",
-          "wordCount": 497,
-          "title": "AIR-CMMI 2021 : Artificial Intelligence in Radiomics - Contrast Media &amp; Molecular Imaging 2021"
-        },
-        {
-          "id": "cfp-884219-S@wikicfp.com",
-          "author": null,
-          "description": "Artificial Intelligence on the Edge",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=131891&copyownerid=168885",
-          "publishedOn": "2021-07-09T04:55:24.681Z",
-          "wordCount": 668,
-          "title": "AIonEdge 2021 : Artificial Intelligence on the Edge"
-        },
-        {
-          "id": "cfp-888646-S@wikicfp.com",
-          "author": null,
-          "description": "2nd International Conference on Advances in Artificial Intelligence Techniques [Toronto, Canada] [Sep 25, 2021 - Sep 26, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=135115&copyownerid=33993",
-          "publishedOn": "2021-07-09T04:55:24.626Z",
-          "wordCount": 746,
-          "title": "ArIT 2021 : 2nd International Conference on Advances in Artificial Intelligence Techniques"
+          "description": "ICCV 2021 - Deep Learning for Geometric Computing Workshop and Challenges [Virtual] [May 7, 2021 - Oct 11, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=133914&copyownerid=111489",
+          "publishedOn": "2021-07-09T04:58:10.461Z",
+          "wordCount": 1129,
+          "title": "DLGC 2021 : ICCV 2021 - Deep Learning for Geometric Computing Workshop and Challenges"
         },
         {
           "id": "cfp-885233-S@wikicfp.com",
           "author": null,
           "description": "The IEEE Third International Conference On Artificial Intelligence Testing [Oxford, UK] [Aug 23, 2021 - Aug 26, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=132641&copyownerid=5698",
-          "publishedOn": "2021-07-09T04:55:24.599Z",
+          "publishedOn": "2021-07-09T04:58:10.406Z",
           "wordCount": 1120,
           "title": "AITest 2021 : The IEEE Third International Conference On Artificial Intelligence Testing"
-        },
-        {
-          "id": "cfp-884446-S@wikicfp.com",
-          "author": null,
-          "description": "The 6th International Conference on Machine Vision and Information Technology (CMVIT 2022) [Haikou, China] [Feb 24, 2022 - Feb 26, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=132065&copyownerid=86815",
-          "publishedOn": "2021-07-09T04:55:24.546Z",
-          "wordCount": 606,
-          "title": "Haikou, China-CMVIT 2022 : The 6th International Conference on Machine Vision and Information Technology (CMVIT 2022)"
-        },
-        {
-          "id": "cfp-884735-S@wikicfp.com",
-          "author": null,
-          "description": "Call for participation: FinCausal-2021 Shared Task, 3rd Financial Narrative Processing Workshop (FNP 2021) [Lancaster, United Kingdom [online]] [Sep 15, 2021 - Sep 16, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=132265&copyownerid=159199",
-          "publishedOn": "2021-07-09T04:55:24.531Z",
-          "wordCount": 615,
-          "title": "FinCausal 2021 : Call for participation: FinCausal-2021 Shared Task, 3rd Financial Narrative Processing Workshop (FNP 2021)"
-        },
-        {
-          "id": "cfp-886967-S@wikicfp.com",
-          "author": null,
-          "description": "ICCV 2021 - Deep Learning for Geometric Computing Workshop and Challenges [Virtual] [May 7, 2021 - Oct 11, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=133914&copyownerid=111489",
-          "publishedOn": "2021-07-09T04:55:24.527Z",
-          "wordCount": 1129,
-          "title": "DLGC 2021 : ICCV 2021 - Deep Learning for Geometric Computing Workshop and Challenges"
-        },
-        {
-          "id": "cfp-884637-S@wikicfp.com",
-          "author": null,
-          "description": "IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS) Special Section on Parallel and Distributed Computing Techniques for AI, ML, and DL",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=132232&copyownerid=99419",
-          "publishedOn": "2021-07-09T04:55:24.502Z",
-          "wordCount": 1261,
-          "title": "TPDS-SS-AI-2021 2021 : IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS) Special Section on Parallel and Distributed Computing Techniques for AI, ML, and DL"
-        },
-        {
-          "id": "cfp-886036-S@wikicfp.com",
-          "author": null,
-          "description": "ICML 2021 Workshop: Beyond First Order Methods in Machine Learning [(virtual)] [Jul 24, 2021 - Jul 24, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=133318&copyownerid=156008",
-          "publishedOn": "2021-07-09T04:55:24.470Z",
-          "wordCount": 827,
-          "title": "Beyond First Order Methods in ML- ICML 2021 : ICML 2021 Workshop: Beyond First Order Methods in Machine Learning"
-        },
-        {
-          "id": "cfp-890339-S@wikicfp.com",
-          "author": null,
-          "description": "Medical Imaging & Image Processing III (MIIP-III)",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=136099&copyownerid=82002",
-          "publishedOn": "2021-07-09T04:55:24.380Z",
-          "wordCount": 475,
-          "title": "MIIP-III 2021 : Medical Imaging &amp; Image Processing III (MIIP-III)"
         },
         {
           "id": "cfp-889873-S@wikicfp.com",
           "author": null,
           "description": "Frontiers in Psychology (Special Issue) - Deep Learning in Adaptive Learning: Educational Behavior and Strategy",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=135806&copyownerid=169561",
-          "publishedOn": "2021-07-09T04:55:24.376Z",
+          "publishedOn": "2021-07-09T04:58:10.397Z",
           "wordCount": 787,
           "title": "Front. Psychol. (SI) 2021 : Frontiers in Psychology (Special Issue) - Deep Learning in Adaptive Learning: Educational Behavior and Strategy"
-        },
-        {
-          "id": "cfp-891785-S@wikicfp.com",
-          "author": null,
-          "description": "Realistic and Immersive Media Technologies",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137044&copyownerid=100214",
-          "publishedOn": "2021-07-09T04:55:24.372Z",
-          "wordCount": 609,
-          "title": "ETRJ Immersive 2022 : Realistic and Immersive Media Technologies"
-        },
-        {
-          "id": "cfp-889611-S@wikicfp.com",
-          "author": null,
-          "description": "International Conference on Big Data, IoT and Machine Learning [Vienna, Austria] [Oct 29, 2021 - Oct 30, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=135653&copyownerid=33993",
-          "publishedOn": "2021-07-09T04:55:24.367Z",
-          "wordCount": 700,
-          "title": "BIOM  2021 : International Conference on Big Data, IoT and Machine Learning"
-        },
-        {
-          "id": "cfp-892985-S@wikicfp.com",
-          "author": null,
-          "description": "The Tenth International Conference on Learning Representations [Virtual-only] [Apr 25, 2022 - Apr 29, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137564&copyownerid=692",
-          "publishedOn": "2021-07-09T04:55:24.361Z",
-          "wordCount": 670,
-          "title": "ICLR 2022 : The Tenth International Conference on Learning Representations"
-        },
-        {
-          "id": "cfp-892916-S@wikicfp.com",
-          "author": null,
-          "description": "International Symposium on Intelligent Computing Systems - ISICS 2022  [Santiago de Chile, Chile] [Mar 23, 2022 - Mar 25, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137507&copyownerid=77325",
-          "publishedOn": "2021-07-09T04:55:24.340Z",
-          "wordCount": 601,
-          "title": "ISICS 2022 : International Symposium on Intelligent Computing Systems - ISICS 2022"
-        },
-        {
-          "id": "cfp-894473-S@wikicfp.com",
-          "author": null,
-          "description": "Fifth Workshop on Distributed Infrastructures for Deep Learning [Québec, Canada] [Dec 6, 2021 - Dec 10, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138566&copyownerid=120063",
-          "publishedOn": "2021-07-09T04:55:24.328Z",
-          "wordCount": 864,
-          "title": "DIDL 2021 : Fifth Workshop on Distributed Infrastructures for Deep Learning"
-        },
-        {
-          "id": "cfp-890233-S@wikicfp.com",
-          "author": null,
-          "description": "IEEE JBHI special issue on Skin Image Analysis in the Age of Deep Learning",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=136037&copyownerid=3780",
-          "publishedOn": "2021-07-09T04:55:24.317Z",
-          "wordCount": 955,
-          "title": "JBHI_SIAADL 2021 : IEEE JBHI special issue on Skin Image Analysis in the Age of Deep Learning"
-        },
-        {
-          "id": "cfp-893872-S@wikicfp.com",
-          "author": null,
-          "description": "Northern Lights Deep Learning Conference 2022 [Tromsø, Norway] [Jan 10, 2022 - Jan 12, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138133&copyownerid=169968",
-          "publishedOn": "2021-07-09T04:55:24.311Z",
-          "wordCount": 495,
-          "title": "NLDL 2022 : Northern Lights Deep Learning Conference 2022"
         },
         {
           "id": "cfp-894415-S@wikicfp.com",
           "author": null,
           "description": "Fourth WORKSHOP ON KNOWLEDGE-DRIVEN ANALYTICS AND SYSTEMS  [Virtual] [Nov 1, 2021 - Nov 5, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138540&copyownerid=118084",
-          "publishedOn": "2021-07-09T04:55:24.302Z",
+          "publishedOn": "2021-07-09T04:58:10.333Z",
           "wordCount": 461,
           "title": "KDAH-CIKM 2021 : Fourth WORKSHOP ON KNOWLEDGE-DRIVEN ANALYTICS AND SYSTEMS"
+        },
+        {
+          "id": "cfp-884446-S@wikicfp.com",
+          "author": null,
+          "description": "The 6th International Conference on Machine Vision and Information Technology (CMVIT 2022) [Haikou, China] [Feb 24, 2022 - Feb 26, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=132065&copyownerid=86815",
+          "publishedOn": "2021-07-09T04:58:10.316Z",
+          "wordCount": 606,
+          "title": "Haikou, China-CMVIT 2022 : The 6th International Conference on Machine Vision and Information Technology (CMVIT 2022)"
+        },
+        {
+          "id": "cfp-892916-S@wikicfp.com",
+          "author": null,
+          "description": "International Symposium on Intelligent Computing Systems - ISICS 2022  [Santiago de Chile, Chile] [Mar 23, 2022 - Mar 25, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137507&copyownerid=77325",
+          "publishedOn": "2021-07-09T04:58:10.308Z",
+          "wordCount": 601,
+          "title": "ISICS 2022 : International Symposium on Intelligent Computing Systems - ISICS 2022"
+        },
+        {
+          "id": "cfp-884735-S@wikicfp.com",
+          "author": null,
+          "description": "Call for participation: FinCausal-2021 Shared Task, 3rd Financial Narrative Processing Workshop (FNP 2021) [Lancaster, United Kingdom [online]] [Sep 15, 2021 - Sep 16, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=132265&copyownerid=159199",
+          "publishedOn": "2021-07-09T04:58:10.223Z",
+          "wordCount": 615,
+          "title": "FinCausal 2021 : Call for participation: FinCausal-2021 Shared Task, 3rd Financial Narrative Processing Workshop (FNP 2021)"
+        },
+        {
+          "id": "cfp-886036-S@wikicfp.com",
+          "author": null,
+          "description": "ICML 2021 Workshop: Beyond First Order Methods in Machine Learning [(virtual)] [Jul 24, 2021 - Jul 24, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=133318&copyownerid=156008",
+          "publishedOn": "2021-07-09T04:58:10.070Z",
+          "wordCount": 827,
+          "title": "Beyond First Order Methods in ML- ICML 2021 : ICML 2021 Workshop: Beyond First Order Methods in Machine Learning"
+        },
+        {
+          "id": "cfp-884219-S@wikicfp.com",
+          "author": null,
+          "description": "Artificial Intelligence on the Edge",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=131891&copyownerid=168885",
+          "publishedOn": "2021-07-09T04:58:10.052Z",
+          "wordCount": 668,
+          "title": "AIonEdge 2021 : Artificial Intelligence on the Edge"
+        },
+        {
+          "id": "cfp-884609-S@wikicfp.com",
+          "author": null,
+          "description": "Artificial Intelligence in Radiomics - Contrast Media & Molecular Imaging 2021",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=132210&copyownerid=82002",
+          "publishedOn": "2021-07-09T04:58:10.046Z",
+          "wordCount": 497,
+          "title": "AIR-CMMI 2021 : Artificial Intelligence in Radiomics - Contrast Media &amp; Molecular Imaging 2021"
+        },
+        {
+          "id": "cfp-892985-S@wikicfp.com",
+          "author": null,
+          "description": "The Tenth International Conference on Learning Representations [Virtual-only] [Apr 25, 2022 - Apr 29, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137564&copyownerid=692",
+          "publishedOn": "2021-07-09T04:58:10.027Z",
+          "wordCount": 670,
+          "title": "ICLR 2022 : The Tenth International Conference on Learning Representations"
+        },
+        {
+          "id": "cfp-888646-S@wikicfp.com",
+          "author": null,
+          "description": "2nd International Conference on Advances in Artificial Intelligence Techniques [Toronto, Canada] [Sep 25, 2021 - Sep 26, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=135115&copyownerid=33993",
+          "publishedOn": "2021-07-09T04:58:10.022Z",
+          "wordCount": 746,
+          "title": "ArIT 2021 : 2nd International Conference on Advances in Artificial Intelligence Techniques"
+        },
+        {
+          "id": "cfp-884637-S@wikicfp.com",
+          "author": null,
+          "description": "IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS) Special Section on Parallel and Distributed Computing Techniques for AI, ML, and DL",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=132232&copyownerid=99419",
+          "publishedOn": "2021-07-09T04:58:10.009Z",
+          "wordCount": 1261,
+          "title": "TPDS-SS-AI-2021 2021 : IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS) Special Section on Parallel and Distributed Computing Techniques for AI, ML, and DL"
+        },
+        {
+          "id": "cfp-891785-S@wikicfp.com",
+          "author": null,
+          "description": "Realistic and Immersive Media Technologies",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137044&copyownerid=100214",
+          "publishedOn": "2021-07-09T04:58:09.998Z",
+          "wordCount": 609,
+          "title": "ETRJ Immersive 2022 : Realistic and Immersive Media Technologies"
+        },
+        {
+          "id": "cfp-890233-S@wikicfp.com",
+          "author": null,
+          "description": "IEEE JBHI special issue on Skin Image Analysis in the Age of Deep Learning",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=136037&copyownerid=3780",
+          "publishedOn": "2021-07-09T04:58:09.975Z",
+          "wordCount": 955,
+          "title": "JBHI_SIAADL 2021 : IEEE JBHI special issue on Skin Image Analysis in the Age of Deep Learning"
+        },
+        {
+          "id": "cfp-894473-S@wikicfp.com",
+          "author": null,
+          "description": "Fifth Workshop on Distributed Infrastructures for Deep Learning [Québec, Canada] [Dec 6, 2021 - Dec 10, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138566&copyownerid=120063",
+          "publishedOn": "2021-07-09T04:58:09.949Z",
+          "wordCount": 864,
+          "title": "DIDL 2021 : Fifth Workshop on Distributed Infrastructures for Deep Learning"
         },
         {
           "id": "cfp-894616-S@wikicfp.com",
           "author": null,
           "description": "25th International Conference on Artificial Intelligence and Statistics [Valencia, Spain] [Mar 30, 2022 - Apr 1, 2022]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138697&copyownerid=13149",
-          "publishedOn": "2021-07-09T04:55:24.282Z",
+          "publishedOn": "2021-07-09T04:58:09.931Z",
           "wordCount": 1320,
           "title": "AISTATS 2022 : 25th International Conference on Artificial Intelligence and Statistics"
+        },
+        {
+          "id": "cfp-890339-S@wikicfp.com",
+          "author": null,
+          "description": "Medical Imaging & Image Processing III (MIIP-III)",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=136099&copyownerid=82002",
+          "publishedOn": "2021-07-09T04:58:09.906Z",
+          "wordCount": 475,
+          "title": "MIIP-III 2021 : Medical Imaging &amp; Image Processing III (MIIP-III)"
+        },
+        {
+          "id": "cfp-893872-S@wikicfp.com",
+          "author": null,
+          "description": "Northern Lights Deep Learning Conference 2022 [Tromsø, Norway] [Jan 10, 2022 - Jan 12, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138133&copyownerid=169968",
+          "publishedOn": "2021-07-09T04:58:09.899Z",
+          "wordCount": 495,
+          "title": "NLDL 2022 : Northern Lights Deep Learning Conference 2022"
+        },
+        {
+          "id": "cfp-889611-S@wikicfp.com",
+          "author": null,
+          "description": "International Conference on Big Data, IoT and Machine Learning [Vienna, Austria] [Oct 29, 2021 - Oct 30, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=135653&copyownerid=33993",
+          "publishedOn": "2021-07-09T04:58:09.869Z",
+          "wordCount": 700,
+          "title": "BIOM  2021 : International Conference on Big Data, IoT and Machine Learning"
         }
       ]
     },
@@ -754,11 +754,20 @@
       "siteUrl": "http://www.wikicfp.com/cfp/call?conference=computer%20science",
       "articles": [
         {
+          "id": "cfp-893982-S@wikicfp.com",
+          "author": null,
+          "description": "XII INTERNATIONAL CONFERENCE ON COMPUTING AND INFORMATICS IN NORTHEN CHILE [ARICA] [Sep 1, 2021 - Sep 3, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138223&copyownerid=169980",
+          "publishedOn": "2021-07-09T04:58:10.476Z",
+          "wordCount": 606,
+          "title": "INFONOR-CHILE 2021 : XII INTERNATIONAL CONFERENCE ON COMPUTING AND INFORMATICS IN NORTHEN CHILE"
+        },
+        {
           "id": "cfp-892978-S@wikicfp.com",
           "author": null,
           "description": "2nd International Conference on Cloud, Big Data and Web Services  [London, United Kingdom] [Jul 24, 2021 - Jul 25, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137559&copyownerid=33993",
-          "publishedOn": "2021-07-09T04:55:24.746Z",
+          "publishedOn": "2021-07-09T04:58:10.471Z",
           "wordCount": 977,
           "title": "CBW  2021 : 2nd International Conference on Cloud, Big Data and Web Services"
         },
@@ -767,25 +776,43 @@
           "author": null,
           "description": "2022 The 5th International Conference on Image and Graphics Processing (ICIGP 2022)--EI Compendex, Scopus [Beijing Forestry University, China] [Jan 7, 2022 - Jan 9, 2022]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137994&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.736Z",
+          "publishedOn": "2021-07-09T04:58:10.466Z",
           "wordCount": 733,
           "title": "ICIGP--Ei, Scopus 2022 : 2022 The 5th International Conference on Image and Graphics Processing (ICIGP 2022)--EI Compendex, Scopus"
         },
         {
-          "id": "cfp-894200-S@wikicfp.com",
+          "id": "cfp-894214-S@wikicfp.com",
           "author": null,
-          "description": "IOP--2022 2nd International Conference on Artificial Intelligence in Education (ICAIE 2022)--Ei Compendex, Scopus [Chengdu, China] [Jan 6, 2022 - Jan 8, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138363&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.731Z",
-          "wordCount": 771,
-          "title": "ICAIE--IOP, Ei, Scopus 2022 : IOP--2022 2nd International Conference on Artificial Intelligence in Education (ICAIE 2022)--Ei Compendex, Scopus"
+          "description": "2022 the 6th International Conference on Virtual and Augmented Reality Simulations (ICVARS 2022)--Ei Compendex, Scopus [Brisbane, Australia] [Mar 25, 2022 - Mar 27, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138377&copyownerid=13881",
+          "publishedOn": "2021-07-09T04:58:10.380Z",
+          "wordCount": 679,
+          "title": "ICVARS--Ei Compendex, Scopus 2022 : 2022 the 6th International Conference on Virtual and Augmented Reality Simulations (ICVARS 2022)--Ei Compendex, Scopus"
+        },
+        {
+          "id": "cfp-893792-S@wikicfp.com",
+          "author": null,
+          "description": "8th International Conference on Computer Science and Engineering  [Sydney, Australia] [Oct 23, 2021 - Oct 24, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138065&copyownerid=33993",
+          "publishedOn": "2021-07-09T04:58:10.358Z",
+          "wordCount": 754,
+          "title": "CSEN 2021 : 8th International Conference on Computer Science and Engineering"
+        },
+        {
+          "id": "cfp-894174-S@wikicfp.com",
+          "author": null,
+          "description": "12th International Conference on Communications Security & Information Assurance  [Zurich, Switzerland] [Nov 20, 2021 - Nov 21, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138341&copyownerid=33993",
+          "publishedOn": "2021-07-09T04:58:10.241Z",
+          "wordCount": 845,
+          "title": "CSIA  2021 : 12th International Conference on Communications Security &amp; Information Assurance"
         },
         {
           "id": "cfp-893656-S@wikicfp.com",
           "author": null,
           "description": "2022 Fifth International Conference on Software and Services Engineering (ICSSE 2022)--EI Compendex, Scopus [Paris, France] [Jan 21, 2022 - Jan 23, 2022]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137999&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.726Z",
+          "publishedOn": "2021-07-09T04:58:10.234Z",
           "wordCount": 565,
           "title": "ICSSE--Ei and Scopus 2022 : 2022 Fifth International Conference on Software and Services Engineering (ICSSE 2022)--EI Compendex, Scopus"
         },
@@ -794,34 +821,88 @@
           "author": null,
           "description": "Winter Conference on Applications of Computer Vision [Waikoloa, HI] [Jan 4, 2022 - Jan 8, 2022]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137737&copyownerid=169708",
-          "publishedOn": "2021-07-09T04:55:24.717Z",
+          "publishedOn": "2021-07-09T04:58:10.218Z",
           "wordCount": 497,
           "title": "WACV 2022 : Winter Conference on Applications of Computer Vision"
+        },
+        {
+          "id": "cfp-893597-S@wikicfp.com",
+          "author": null,
+          "description": "The 10th IIAE International Conference on Industrial Application Engineering 2022 [Matsue, Japan] [Mar 26, 2022 - Mar 30, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137949&copyownerid=58584",
+          "publishedOn": "2021-07-09T04:58:10.189Z",
+          "wordCount": 534,
+          "title": "ICIAE 2022 : The 10th IIAE International Conference on Industrial Application Engineering 2022"
+        },
+        {
+          "id": "cfp-894200-S@wikicfp.com",
+          "author": null,
+          "description": "IOP--2022 2nd International Conference on Artificial Intelligence in Education (ICAIE 2022)--Ei Compendex, Scopus [Chengdu, China] [Jan 6, 2022 - Jan 8, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138363&copyownerid=13881",
+          "publishedOn": "2021-07-09T04:58:10.185Z",
+          "wordCount": 771,
+          "title": "ICAIE--IOP, Ei, Scopus 2022 : IOP--2022 2nd International Conference on Artificial Intelligence in Education (ICAIE 2022)--Ei Compendex, Scopus"
+        },
+        {
+          "id": "cfp-894209-S@wikicfp.com",
+          "author": null,
+          "description": "International Conference on Statistics and Machine Learning in Electronics [Sofia, Bulgaria] [May 12, 2022 - May 13, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138372&copyownerid=9913",
+          "publishedOn": "2021-07-09T04:58:10.179Z",
+          "wordCount": 384,
+          "title": "ICSMLE 2022 : International Conference on Statistics and Machine Learning in Electronics"
+        },
+        {
+          "id": "cfp-893672-S@wikicfp.com",
+          "author": null,
+          "description": "7th International Conference on Computer Science, Engineering and Information Technology [Copenhagen, Denmark] [Sep 18, 2021 - Sep 19, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138009&copyownerid=33993",
+          "publishedOn": "2021-07-09T04:58:10.161Z",
+          "wordCount": 824,
+          "title": "CSITY 2021 : 7th International Conference on Computer Science, Engineering and Information Technology"
         },
         {
           "id": "cfp-893778-S@wikicfp.com",
           "author": null,
           "description": "2022 2nd International Conference on Computer and Communication Engineering (CCCE 2022)--Ei Compendex, Scopus [Rome, Italy] [Mar 11, 2022 - Mar 13, 2022]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138052&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.705Z",
+          "publishedOn": "2021-07-09T04:58:10.141Z",
           "wordCount": 494,
           "title": "CCCE--Ei Compendex, Scopus 2022 : 2022 2nd International Conference on Computer and Communication Engineering (CCCE 2022)--Ei Compendex, Scopus"
         },
         {
-          "id": "cfp-893661-S@wikicfp.com",
+          "id": "cfp-894456-S@wikicfp.com",
           "author": null,
-          "description": "2022 5th International Conference on Computer Graphics and Virtuality (ICCGV 2022)--Ei Compendex, Scopus [Chengdu, China] [Feb 25, 2022 - Feb 27, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138001&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.702Z",
-          "wordCount": 606,
-          "title": "ICCGV--EI Compendex, Scopus 2022 : 2022 5th International Conference on Computer Graphics and Virtuality (ICCGV 2022)--Ei Compendex, Scopus"
+          "description": "First International Workshop on eXPErt RecommendaTion for Community Question Answering (XPERT4CQA) [Melbourne, Australia] [Dec 14, 2021 - Dec 17, 2021]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138556&copyownerid=170030",
+          "publishedOn": "2021-07-09T04:58:10.136Z",
+          "wordCount": 866,
+          "title": "XPERT4CQA 2021 : First International Workshop on eXPErt RecommendaTion for Community Question Answering (XPERT4CQA)"
+        },
+        {
+          "id": "cfp-894212-S@wikicfp.com",
+          "author": null,
+          "description": "2022 the 14th International Conference on Computer and Automation Engineering (ICCAE 2022)--Ei Compendex, Scopus [Brisbane, Australia] [Mar 25, 2022 - Mar 27, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138375&copyownerid=13881",
+          "publishedOn": "2021-07-09T04:58:10.122Z",
+          "wordCount": 660,
+          "title": "ICCAE--Ei Compendex, Scopus 2022 : 2022 the 14th International Conference on Computer and Automation Engineering (ICCAE 2022)--Ei Compendex, Scopus"
+        },
+        {
+          "id": "cfp-893780-S@wikicfp.com",
+          "author": null,
+          "description": "ACM--2022 7th International Conference on Machine Learning Technologies (ICMLT 2022)--Ei Compendex, Scopus [Rome, Italy] [Mar 11, 2022 - Mar 13, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138054&copyownerid=13881",
+          "publishedOn": "2021-07-09T04:58:10.003Z",
+          "wordCount": 427,
+          "title": "ACM--ICMLT--Ei and Scopus 2022 : ACM--2022 7th International Conference on Machine Learning Technologies (ICMLT 2022)--Ei Compendex, Scopus"
         },
         {
           "id": "cfp-894427-S@wikicfp.com",
           "author": null,
           "description": "2021 Data, Information, Knowledge and Wisdom Research and Applications Conference (DIKW-RA 2021) [Sanya, China] [Oct 28, 2021 - Oct 30, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138544&copyownerid=168653",
-          "publishedOn": "2021-07-09T04:55:24.677Z",
+          "publishedOn": "2021-07-09T04:58:09.992Z",
           "wordCount": 1575,
           "title": "CFP: DIKW-RA 2021 : 2021 Data, Information, Knowledge and Wisdom Research and Applications Conference (DIKW-RA 2021)"
         },
@@ -830,108 +911,27 @@
           "author": null,
           "description": "The 6th International Workshop on Managed Complexity [Vienna, Austria] [Sep 22, 2021 - Sep 22, 2021]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137739&copyownerid=106345",
-          "publishedOn": "2021-07-09T04:55:24.651Z",
+          "publishedOn": "2021-07-09T04:58:09.967Z",
           "wordCount": 1161,
           "title": "ManComp 2021 : The 6th International Workshop on Managed Complexity"
         },
         {
-          "id": "cfp-893597-S@wikicfp.com",
+          "id": "cfp-893661-S@wikicfp.com",
           "author": null,
-          "description": "The 10th IIAE International Conference on Industrial Application Engineering 2022 [Matsue, Japan] [Mar 26, 2022 - Mar 30, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137949&copyownerid=58584",
-          "publishedOn": "2021-07-09T04:55:24.594Z",
-          "wordCount": 534,
-          "title": "ICIAE 2022 : The 10th IIAE International Conference on Industrial Application Engineering 2022"
-        },
-        {
-          "id": "cfp-894212-S@wikicfp.com",
-          "author": null,
-          "description": "2022 the 14th International Conference on Computer and Automation Engineering (ICCAE 2022)--Ei Compendex, Scopus [Brisbane, Australia] [Mar 25, 2022 - Mar 27, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138375&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.587Z",
-          "wordCount": 660,
-          "title": "ICCAE--Ei Compendex, Scopus 2022 : 2022 the 14th International Conference on Computer and Automation Engineering (ICCAE 2022)--Ei Compendex, Scopus"
-        },
-        {
-          "id": "cfp-894174-S@wikicfp.com",
-          "author": null,
-          "description": "12th International Conference on Communications Security & Information Assurance  [Zurich, Switzerland] [Nov 20, 2021 - Nov 21, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138341&copyownerid=33993",
-          "publishedOn": "2021-07-09T04:55:24.576Z",
-          "wordCount": 845,
-          "title": "CSIA  2021 : 12th International Conference on Communications Security &amp; Information Assurance"
-        },
-        {
-          "id": "cfp-893672-S@wikicfp.com",
-          "author": null,
-          "description": "7th International Conference on Computer Science, Engineering and Information Technology [Copenhagen, Denmark] [Sep 18, 2021 - Sep 19, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138009&copyownerid=33993",
-          "publishedOn": "2021-07-09T04:55:24.571Z",
-          "wordCount": 824,
-          "title": "CSITY 2021 : 7th International Conference on Computer Science, Engineering and Information Technology"
+          "description": "2022 5th International Conference on Computer Graphics and Virtuality (ICCGV 2022)--Ei Compendex, Scopus [Chengdu, China] [Feb 25, 2022 - Feb 27, 2022]",
+          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138001&copyownerid=13881",
+          "publishedOn": "2021-07-09T04:58:09.915Z",
+          "wordCount": 606,
+          "title": "ICCGV--EI Compendex, Scopus 2022 : 2022 5th International Conference on Computer Graphics and Virtuality (ICCGV 2022)--Ei Compendex, Scopus"
         },
         {
           "id": "cfp-894608-S@wikicfp.com",
           "author": null,
           "description": "ACM--2022 5th International Conference on Computers in Management and Business (ICCMB 2022)--Ei Compendex, Scopus [Singapore] [Jan 21, 2022 - Jan 23, 2022]",
           "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138689&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.565Z",
+          "publishedOn": "2021-07-09T04:58:09.879Z",
           "wordCount": 535,
           "title": "ICCMB--ACM, Ei and Scopus 2022 : ACM--2022 5th International Conference on Computers in Management and Business (ICCMB 2022)--Ei Compendex, Scopus"
-        },
-        {
-          "id": "cfp-894456-S@wikicfp.com",
-          "author": null,
-          "description": "First International Workshop on eXPErt RecommendaTion for Community Question Answering (XPERT4CQA) [Melbourne, Australia] [Dec 14, 2021 - Dec 17, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138556&copyownerid=170030",
-          "publishedOn": "2021-07-09T04:55:24.542Z",
-          "wordCount": 866,
-          "title": "XPERT4CQA 2021 : First International Workshop on eXPErt RecommendaTion for Community Question Answering (XPERT4CQA)"
-        },
-        {
-          "id": "cfp-893982-S@wikicfp.com",
-          "author": null,
-          "description": "XII INTERNATIONAL CONFERENCE ON COMPUTING AND INFORMATICS IN NORTHEN CHILE [ARICA] [Sep 1, 2021 - Sep 3, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138223&copyownerid=169980",
-          "publishedOn": "2021-07-09T04:55:24.537Z",
-          "wordCount": 606,
-          "title": "INFONOR-CHILE 2021 : XII INTERNATIONAL CONFERENCE ON COMPUTING AND INFORMATICS IN NORTHEN CHILE"
-        },
-        {
-          "id": "cfp-893792-S@wikicfp.com",
-          "author": null,
-          "description": "8th International Conference on Computer Science and Engineering  [Sydney, Australia] [Oct 23, 2021 - Oct 24, 2021]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138065&copyownerid=33993",
-          "publishedOn": "2021-07-09T04:55:24.521Z",
-          "wordCount": 754,
-          "title": "CSEN 2021 : 8th International Conference on Computer Science and Engineering"
-        },
-        {
-          "id": "cfp-894214-S@wikicfp.com",
-          "author": null,
-          "description": "2022 the 6th International Conference on Virtual and Augmented Reality Simulations (ICVARS 2022)--Ei Compendex, Scopus [Brisbane, Australia] [Mar 25, 2022 - Mar 27, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138377&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.507Z",
-          "wordCount": 679,
-          "title": "ICVARS--Ei Compendex, Scopus 2022 : 2022 the 6th International Conference on Virtual and Augmented Reality Simulations (ICVARS 2022)--Ei Compendex, Scopus"
-        },
-        {
-          "id": "cfp-894209-S@wikicfp.com",
-          "author": null,
-          "description": "International Conference on Statistics and Machine Learning in Electronics [Sofia, Bulgaria] [May 12, 2022 - May 13, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138372&copyownerid=9913",
-          "publishedOn": "2021-07-09T04:55:24.488Z",
-          "wordCount": 384,
-          "title": "ICSMLE 2022 : International Conference on Statistics and Machine Learning in Electronics"
-        },
-        {
-          "id": "cfp-893780-S@wikicfp.com",
-          "author": null,
-          "description": "ACM--2022 7th International Conference on Machine Learning Technologies (ICMLT 2022)--Ei Compendex, Scopus [Rome, Italy] [Mar 11, 2022 - Mar 13, 2022]",
-          "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138054&copyownerid=13881",
-          "publishedOn": "2021-07-09T04:55:24.455Z",
-          "wordCount": 427,
-          "title": "ACM--ICMLT--Ei and Scopus 2022 : ACM--2022 7th International Conference on Machine Learning Technologies (ICMLT 2022)--Ei Compendex, Scopus"
         }
       ]
     }
