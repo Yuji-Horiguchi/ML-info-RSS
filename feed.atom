@@ -1,356 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-08-23T00:37:26.736Z</id>
+    <id>urn:2021-08-24T00:38:55.430Z</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T00:37:26.736Z</updated>
+    <updated>2021-08-24T00:38:55.430Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[ISICS 2022 : International Symposium on Intelligent Computing Systems - ISICS 2022]]></title>
-        <id>cfp-892916-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137507&amp;copyownerid=77325"/>
-        <updated>2021-08-23T00:37:26.715Z</updated>
-        <summary type="html"><![CDATA[International Symposium on Intelligent Computing Systems - ISICS 2022  [Santiago de Chile, Chile] [Mar 23, 2022 - Mar 25, 2022]]]></summary>
-        <author>
-            <name>CFPs on Deep Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IEEE--ICICSE--Ei, Scopus 2022 : IEEE--2022 2nd International Conference on Information Communication and Software Engineering (ICICSE 2022)--Scopus, EI Compendex]]></title>
-        <id>cfp-900062-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143051&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.710Z</updated>
-        <summary type="html"><![CDATA[IEEE--2022 2nd International Conference on Information Communication and Software Engineering (ICICSE 2022)--Scopus, EI Compendex [Chongqing, China] [Mar 18, 2022 - Mar 20, 2022]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIFZ 2021 : 7th International Conference on Artificial Intelligence and Fuzzy Logic Systems]]></title>
-        <id>cfp-897907-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=141092&amp;copyownerid=33993"/>
-        <updated>2021-08-23T00:37:26.705Z</updated>
-        <summary type="html"><![CDATA[7th International Conference on Artificial Intelligence and Fuzzy Logic Systems  [Copenhagen, Denmark] [Sep 18, 2021 - Sep 19, 2021]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOTCS--Scopus, EI Compendex 2022 : 2022 International Conference on Internet of Things and Computer Science (IOTCS 2022)--Scopus, EI Compendex]]></title>
-        <id>cfp-900058-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143047&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.689Z</updated>
-        <summary type="html"><![CDATA[2022 International Conference on Internet of Things and Computer Science (IOTCS 2022)--Scopus, EI Compendex [Oxford, United Kingdom] [Feb 18, 2022 - Feb 20, 2022]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KG@SAC 2022 : ACM SAC 2022 Track on Knowledge Graphs]]></title>
-        <id>cfp-897340-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=140592&amp;copyownerid=8679"/>
-        <updated>2021-08-23T00:37:26.679Z</updated>
-        <summary type="html"><![CDATA[ACM SAC 2022 Track on Knowledge Graphs [Brno, Czech Republic] [Apr 25, 2022 - Apr 29, 2022]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACM--ICSCA--Ei, Scopus 2022 : ACM--2022 11th International Conference on Software and Computer Applications (ICSCA 2022)--Ei Compendex, Scopus]]></title>
-        <id>cfp-900055-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143044&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.668Z</updated>
-        <summary type="html"><![CDATA[ACM--2022 11th International Conference on Software and Computer Applications (ICSCA 2022)--Ei Compendex, Scopus [Melaka, Malaysia] [Feb 24, 2022 - Feb 26, 2022]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOFEA 2021 : 7th International Conference on Software Engineering and Applications]]></title>
-        <id>cfp-900656-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143500&amp;copyownerid=46167"/>
-        <updated>2021-08-23T00:37:26.650Z</updated>
-        <summary type="html"><![CDATA[7th International Conference on Software Engineering and Applications [Sydney, Australia] [Oct 23, 2021 - Oct 24, 2021]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IAM 2021 : FOURTH CONFERENCE ON INFORMATICS AND APPLIED MATHEMATICS]]></title>
-        <id>cfp-899296-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=142461&amp;copyownerid=48431"/>
-        <updated>2021-08-23T00:37:26.644Z</updated>
-        <summary type="html"><![CDATA[FOURTH CONFERENCE ON INFORMATICS AND APPLIED MATHEMATICS [Guelma, Algeria] [Nov 24, 2021 - Nov 25, 2021]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISAI--Ei Compendex, Scopus 2022 : 2022 the 2nd International Symposium on AI (ISAI 2022)--Scopus, EI Compendex]]></title>
-        <id>cfp-900068-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143057&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.641Z</updated>
-        <summary type="html"><![CDATA[2022 the 2nd International Symposium on AI (ISAI 2022)--Scopus, EI Compendex [Chengdu, China] [Apr 22, 2022 - Apr 24, 2022]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MACSPro 2021 : International Scientific Conference on Modeling and Analysis Complex Systems and Processes]]></title>
-        <id>cfp-897459-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=140701&amp;copyownerid=170311"/>
-        <updated>2021-08-23T00:37:26.637Z</updated>
-        <summary type="html"><![CDATA[International Scientific Conference on Modeling and Analysis Complex Systems and Processes [Moscow, Russia] [Dec 16, 2021 - Dec 18, 2021]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIIP-III 2021 : Medical Imaging &amp; Image Processing III (MIIP-III)]]></title>
-        <id>cfp-890339-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=136099&amp;copyownerid=82002"/>
-        <updated>2021-08-23T00:37:26.632Z</updated>
-        <summary type="html"><![CDATA[Medical Imaging & Image Processing III (MIIP-III)]]></summary>
-        <author>
-            <name>CFPs on Deep Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETRJ Immersive 2022 : Realistic and Immersive Media Technologies]]></title>
-        <id>cfp-891785-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137044&amp;copyownerid=100214"/>
-        <updated>2021-08-23T00:37:26.628Z</updated>
-        <summary type="html"><![CDATA[Realistic and Immersive Media Technologies]]></summary>
-        <author>
-            <name>CFPs on Deep Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DLGC 2021 : ICCV 2021 - Deep Learning for Geometric Computing Workshop and Challenges]]></title>
-        <id>cfp-886967-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=133914&amp;copyownerid=111489"/>
-        <updated>2021-08-23T00:37:26.623Z</updated>
-        <summary type="html"><![CDATA[ICCV 2021 - Deep Learning for Geometric Computing Workshop and Challenges [Virtual] [May 7, 2021 - Oct 11, 2021]]]></summary>
-        <author>
-            <name>CFPs on Deep Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICFCC--EI Compendex and Scopus 2022 : 2022 The 14th International Conference on Future Computer and Communication (ICFCC 2022)--Ei Compendex, Scopus]]></title>
-        <id>cfp-900632-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143477&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.619Z</updated>
-        <summary type="html"><![CDATA[2022 The 14th International Conference on Future Computer and Communication (ICFCC 2022)--Ei Compendex, Scopus [Singapore] [Feb 18, 2022 - Feb 20, 2022]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICIAI--Ei Compendex, Scopus 2022 : 2022 6th International Conference on Innovation in Artificial Intelligence (ICIAI 2022)--Ei Compendex, Scopus]]></title>
-        <id>cfp-900423-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143346&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.605Z</updated>
-        <summary type="html"><![CDATA[2022 6th International Conference on Innovation in Artificial Intelligence (ICIAI 2022)--Ei Compendex, Scopus [Guangzhou, China] [Mar 4, 2022 - Mar 6, 2022]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PIC 2021 : The 2021 IEEE International Conference on Progress in Informatics and Computing]]></title>
-        <id>cfp-900394-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143319&amp;copyownerid=170473"/>
-        <updated>2021-08-23T00:37:26.600Z</updated>
-        <summary type="html"><![CDATA[The 2021 IEEE International Conference on Progress in Informatics and Computing [Shanghai/Tampere] [Dec 17, 2021 - Dec 19, 2021]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JBHI_SIAADL 2021 : IEEE JBHI special issue on Skin Image Analysis in the Age of Deep Learning]]></title>
-        <id>cfp-890233-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=136037&amp;copyownerid=3780"/>
-        <updated>2021-08-23T00:37:26.596Z</updated>
-        <summary type="html"><![CDATA[IEEE JBHI special issue on Skin Image Analysis in the Age of Deep Learning]]></summary>
-        <author>
-            <name>CFPs on Deep Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICMVA--Ei, Scopus 2022 : 2022 5th International Conference on Machine Vision and Applications (ICMVA 2022)--Ei Compendex, Scopus]]></title>
-        <id>cfp-900634-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143479&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.591Z</updated>
-        <summary type="html"><![CDATA[2022 5th International Conference on Machine Vision and Applications (ICMVA 2022)--Ei Compendex, Scopus [Singapore] [Feb 18, 2022 - Feb 20, 2022]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSEE--EI Compendex, Scopus 2022 : 2022 3rd International Conference on Computer Science, Engineering and Education (CSEE 2022)--Ei Compendex, Scopus]]></title>
-        <id>cfp-900075-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143064&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.587Z</updated>
-        <summary type="html"><![CDATA[2022 3rd International Conference on Computer Science, Engineering and Education (CSEE 2022)--Ei Compendex, Scopus [Sanya, China] [Feb 25, 2022 - Feb 27, 2022]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICLR 2022 : The Tenth International Conference on Learning Representations]]></title>
-        <id>cfp-892985-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137564&amp;copyownerid=692"/>
-        <updated>2021-08-23T00:37:26.582Z</updated>
-        <summary type="html"><![CDATA[The Tenth International Conference on Learning Representations [Virtual-only] [Apr 25, 2022 - Apr 29, 2022]]]></summary>
-        <author>
-            <name>CFPs on Deep Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEVIANCE 2021 : Workshop on Deviant Activities on Social Media Co-located with 2021 IEEE Conference on Big Data (IEEE BigData 2021)]]></title>
-        <id>cfp-900373-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143310&amp;copyownerid=164458"/>
-        <updated>2021-08-23T00:37:26.577Z</updated>
-        <summary type="html"><![CDATA[Workshop on Deviant Activities on Social Media Co-located with 2021 IEEE Conference on Big Data (IEEE BigData 2021) [Virtual] [Dec 15, 2021 - Dec 18, 2021]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICCT--Scopus, EI Compendex 2022 : 2022 International Conference on Computer Technologies (ICCT 2022)--Scopus, EI Compendex]]></title>
-        <id>cfp-900050-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143039&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.572Z</updated>
-        <summary type="html"><![CDATA[2022 International Conference on Computer Technologies (ICCT 2022)--Scopus, EI Compendex [Melaka, Malaysia] [Feb 24, 2022 - Feb 26, 2022]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACMSE 2022 : ACMSE 2022: The Annual ACM Southeast Conference]]></title>
-        <id>cfp-900532-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143407&amp;copyownerid=95237"/>
-        <updated>2021-08-23T00:37:26.549Z</updated>
-        <summary type="html"><![CDATA[ACMSE 2022: The Annual ACM Southeast Conference [Oxford, Alabama, USA] [Apr 18, 2022 - Apr 20, 2022]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BDIoT 2021 : 2nd International Conference on Big Data &amp; IOT]]></title>
-        <id>cfp-900087-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143070&amp;copyownerid=33993"/>
-        <updated>2021-08-23T00:37:26.544Z</updated>
-        <summary type="html"><![CDATA[2nd International Conference on Big Data & IOT  [Copenhagen, Denmark] [Sep 18, 2021 - Sep 19, 2021]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPMV--Ei &amp; Scopus 2022 : 2022 4th International Conference on Image Processing and Machine Vision (IPMV 2022)--Ei Compendex, Scopus]]></title>
-        <id>cfp-900642-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143487&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.539Z</updated>
-        <summary type="html"><![CDATA[2022 4th International Conference on Image Processing and Machine Vision (IPMV 2022)--Ei Compendex, Scopus [Hong Kong] [Mar 25, 2022 - Mar 27, 2022]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[KDAH-CIKM 2021 : Fourth WORKSHOP ON KNOWLEDGE-DRIVEN ANALYTICS AND SYSTEMS]]></title>
         <id>cfp-894415-S@wikicfp.com</id>
         <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138540&amp;copyownerid=118084"/>
-        <updated>2021-08-23T00:37:26.535Z</updated>
+        <updated>2021-08-24T00:38:55.409Z</updated>
         <summary type="html"><![CDATA[Fourth WORKSHOP ON KNOWLEDGE-DRIVEN ANALYTICS AND SYSTEMS  [Virtual] [Nov 1, 2021 - Nov 5, 2021]]]></summary>
-        <author>
-            <name>CFPs on Deep Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IEEE TAI SI: S&amp;P in Machine Learning 2021 : IEEE TAI Special Issue on Security and Privacy in Machine Learning]]></title>
-        <id>cfp-896181-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=139624&amp;copyownerid=103669"/>
-        <updated>2021-08-23T00:37:26.531Z</updated>
-        <summary type="html"><![CDATA[IEEE TAI Special Issue on Security and Privacy in Machine Learning [N/A] [Jul 1, 2021 - Feb 15, 2022]]]></summary>
-        <author>
-            <name>CFPs on Machine Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITS 2021 : 11th International Conference on Internet Technologies &amp; Society 2021]]></title>
-        <id>cfp-897465-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=140702&amp;copyownerid=118738"/>
-        <updated>2021-08-23T00:37:26.523Z</updated>
-        <summary type="html"><![CDATA[11th International Conference on Internet Technologies & Society 2021 [online] [Dec 15, 2021 - Dec 17, 2021]]]></summary>
-        <author>
-            <name>CFPs on Computer Science : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Front. Psychol. (SI) 2021 : Frontiers in Psychology (Special Issue) - Deep Learning in Adaptive Learning: Educational Behavior and Strategy]]></title>
-        <id>cfp-889873-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=135806&amp;copyownerid=169561"/>
-        <updated>2021-08-23T00:37:26.519Z</updated>
-        <summary type="html"><![CDATA[Frontiers in Psychology (Special Issue) - Deep Learning in Adaptive Learning: Educational Behavior and Strategy]]></summary>
-        <author>
-            <name>CFPs on Deep Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ArIT 2021 : 2nd International Conference on Advances in Artificial Intelligence Techniques]]></title>
-        <id>cfp-888646-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=135115&amp;copyownerid=33993"/>
-        <updated>2021-08-23T00:37:26.515Z</updated>
-        <summary type="html"><![CDATA[2nd International Conference on Advances in Artificial Intelligence Techniques [Toronto, Canada] [Sep 25, 2021 - Sep 26, 2021]]]></summary>
-        <author>
-            <name>CFPs on Deep Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICRMV--Ei Compendex, Scopus 2022 : 2022 6th International Conference on Robotics and Machine Vision (ICRMV 2022)--Ei Compendex, Scopus]]></title>
-        <id>cfp-900640-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143485&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.497Z</updated>
-        <summary type="html"><![CDATA[2022 6th International Conference on Robotics and Machine Vision (ICRMV 2022)--Ei Compendex, Scopus [Xiamen, China] [Feb 26, 2022 - Feb 28, 2022]]]></summary>
-        <author>
-            <name>CFPs on Artificial Intelligence : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CMLA  2021 : 3rd International Conference on Machine Learning &amp; Applications]]></title>
-        <id>cfp-900437-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143357&amp;copyownerid=33993"/>
-        <updated>2021-08-23T00:37:26.491Z</updated>
-        <summary type="html"><![CDATA[3rd International Conference on Machine Learning & Applications  [Toronto, Canada] [Sep 25, 2021 - Sep 26, 2021]]]></summary>
-        <author>
-            <name>CFPs on Artificial Intelligence : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIDL 2021 : Fifth Workshop on Distributed Infrastructures for Deep Learning]]></title>
-        <id>cfp-894473-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138566&amp;copyownerid=120063"/>
-        <updated>2021-08-23T00:37:26.486Z</updated>
-        <summary type="html"><![CDATA[Fifth Workshop on Distributed Infrastructures for Deep Learning [Québec, Canada] [Dec 6, 2021 - Dec 10, 2021]]]></summary>
-        <author>
-            <name>CFPs on Deep Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AusDM 2021 : The 19th Australasian Data Mining Conference 2021]]></title>
-        <id>cfp-896031-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=139555&amp;copyownerid=163287"/>
-        <updated>2021-08-23T00:37:26.481Z</updated>
-        <summary type="html"><![CDATA[The 19th Australasian Data Mining Conference 2021 [Brisbane, Australia] [Dec 13, 2021 - Dec 15, 2021]]]></summary>
-        <author>
-            <name>CFPs on Deep Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AISTATS 2022 : 25th International Conference on Artificial Intelligence and Statistics]]></title>
-        <id>cfp-894616-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138697&amp;copyownerid=13149"/>
-        <updated>2021-08-23T00:37:26.476Z</updated>
-        <summary type="html"><![CDATA[25th International Conference on Artificial Intelligence and Statistics [Valencia, Spain] [Mar 30, 2022 - Apr 1, 2022]]]></summary>
         <author>
             <name>CFPs on Deep Learning : WikiCFP</name>
         </author>
@@ -359,8 +19,28 @@
         <title type="html"><![CDATA[BIOM  2021 : International Conference on Big Data, IoT and Machine Learning]]></title>
         <id>cfp-889611-S@wikicfp.com</id>
         <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=135653&amp;copyownerid=33993"/>
-        <updated>2021-08-23T00:37:26.470Z</updated>
+        <updated>2021-08-24T00:38:55.405Z</updated>
         <summary type="html"><![CDATA[International Conference on Big Data, IoT and Machine Learning [Vienna, Austria] [Oct 29, 2021 - Oct 30, 2021]]]></summary>
+        <author>
+            <name>CFPs on Deep Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front. Psychol. (SI) 2021 : Frontiers in Psychology (Special Issue) - Deep Learning in Adaptive Learning: Educational Behavior and Strategy]]></title>
+        <id>cfp-889873-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=135806&amp;copyownerid=169561"/>
+        <updated>2021-08-24T00:38:55.399Z</updated>
+        <summary type="html"><![CDATA[Frontiers in Psychology (Special Issue) - Deep Learning in Adaptive Learning: Educational Behavior and Strategy]]></summary>
+        <author>
+            <name>CFPs on Deep Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DLGC 2021 : ICCV 2021 - Deep Learning for Geometric Computing Workshop and Challenges]]></title>
+        <id>cfp-886967-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=133914&amp;copyownerid=111489"/>
+        <updated>2021-08-24T00:38:55.394Z</updated>
+        <summary type="html"><![CDATA[ICCV 2021 - Deep Learning for Geometric Computing Workshop and Challenges [Virtual] [May 7, 2021 - Oct 11, 2021]]]></summary>
         <author>
             <name>CFPs on Deep Learning : WikiCFP</name>
         </author>
@@ -369,148 +49,88 @@
         <title type="html"><![CDATA[ICIAI--Ei Compendex, Scopus 2022 : 2022 6th International Conference on Innovation in Artificial Intelligence (ICIAI 2022)--Ei Compendex, Scopus]]></title>
         <id>cfp-900423-S@wikicfp.com</id>
         <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143346&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.465Z</updated>
+        <updated>2021-08-24T00:38:55.380Z</updated>
         <summary type="html"><![CDATA[2022 6th International Conference on Innovation in Artificial Intelligence (ICIAI 2022)--Ei Compendex, Scopus [Guangzhou, China] [Mar 4, 2022 - Mar 6, 2022]]]></summary>
         <author>
-            <name>CFPs on Artificial Intelligence : WikiCFP</name>
+            <name>CFPs on Computer Science : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AIM 2021 : ICCV 2021 - Advances in Image Manipulation workshop and challenges]]></title>
-        <id>cfp-896497-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=139926&amp;copyownerid=90126"/>
-        <updated>2021-08-23T00:37:26.460Z</updated>
-        <summary type="html"><![CDATA[ICCV 2021 - Advances in Image Manipulation workshop and challenges [Montreal, Canada] [Oct 11, 2021 - Oct 11, 2021]]]></summary>
+        <title type="html"><![CDATA[AusDM 2021 : The 19th Australasian Data Mining Conference 2021]]></title>
+        <id>cfp-896031-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=139555&amp;copyownerid=163287"/>
+        <updated>2021-08-24T00:38:55.376Z</updated>
+        <summary type="html"><![CDATA[The 19th Australasian Data Mining Conference 2021 [Brisbane, Australia] [Dec 13, 2021 - Dec 15, 2021]]]></summary>
         <author>
             <name>CFPs on Deep Learning : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NLDL 2022 : Northern Lights Deep Learning Conference 2022]]></title>
-        <id>cfp-893872-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138133&amp;copyownerid=169968"/>
-        <updated>2021-08-23T00:37:26.444Z</updated>
-        <summary type="html"><![CDATA[Northern Lights Deep Learning Conference 2022 [Tromsø, Norway] [Jan 10, 2022 - Jan 12, 2022]]]></summary>
+        <title type="html"><![CDATA[ArIT 2021 : 2nd International Conference on Advances in Artificial Intelligence Techniques]]></title>
+        <id>cfp-888646-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=135115&amp;copyownerid=33993"/>
+        <updated>2021-08-24T00:38:55.370Z</updated>
+        <summary type="html"><![CDATA[2nd International Conference on Advances in Artificial Intelligence Techniques [Toronto, Canada] [Sep 25, 2021 - Sep 26, 2021]]]></summary>
         <author>
             <name>CFPs on Deep Learning : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeepLearn Winter 2022 : 5th International School on Deep Learning]]></title>
-        <id>cfp-894708-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138776&amp;copyownerid=104521"/>
-        <updated>2021-08-23T00:37:26.440Z</updated>
-        <summary type="html"><![CDATA[5th International School on Deep Learning [Bournemouth, UK] [Jan 17, 2022 - Jan 21, 2022]]]></summary>
+        <title type="html"><![CDATA[ISICS 2022 : International Symposium on Intelligent Computing Systems - ISICS 2022]]></title>
+        <id>cfp-892916-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137507&amp;copyownerid=77325"/>
+        <updated>2021-08-24T00:38:55.366Z</updated>
+        <summary type="html"><![CDATA[International Symposium on Intelligent Computing Systems - ISICS 2022  [Santiago de Chile, Chile] [Mar 23, 2022 - Mar 25, 2022]]]></summary>
         <author>
             <name>CFPs on Deep Learning : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeepLearn Spring 2022 : 6th International School on Deep Learning]]></title>
-        <id>cfp-900186-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143154&amp;copyownerid=104521"/>
-        <updated>2021-08-23T00:37:26.435Z</updated>
-        <summary type="html"><![CDATA[6th International School on Deep Learning [Guimarães, Portugal] [Apr 18, 2022 - Apr 22, 2022]]]></summary>
+        <title type="html"><![CDATA[CSTE--Ei Compendex, Scopus 2022 : 2022 4th International Conference on Computer Science and Technologies in Education (CSTE 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-901482-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=144016&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.361Z</updated>
+        <summary type="html"><![CDATA[2022 4th International Conference on Computer Science and Technologies in Education (CSTE 2022)--Ei Compendex, Scopus [Xi'an, China] [May 6, 2022 - May 8, 2022]]]></summary>
         <author>
-            <name>CFPs on Deep Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISAI--Ei Compendex, Scopus 2022 : 2022 the 2nd International Symposium on AI (ISAI 2022)--Scopus, EI Compendex]]></title>
-        <id>cfp-900068-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143057&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.430Z</updated>
-        <summary type="html"><![CDATA[2022 the 2nd International Symposium on AI (ISAI 2022)--Scopus, EI Compendex [Chengdu, China] [Apr 22, 2022 - Apr 24, 2022]]]></summary>
-        <author>
-            <name>CFPs on Artificial Intelligence : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DLIS 2022 : Deep Learning for IoT Security - Frontiers in Big Data Journal]]></title>
-        <id>cfp-897137-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=140471&amp;copyownerid=170286"/>
-        <updated>2021-08-23T00:37:26.425Z</updated>
-        <summary type="html"><![CDATA[Deep Learning for IoT Security - Frontiers in Big Data Journal]]></summary>
-        <author>
-            <name>CFPs on Deep Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepLearn Spring 2022 : 6th International School on Deep Learning]]></title>
-        <id>cfp-900186-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143154&amp;copyownerid=104521"/>
-        <updated>2021-08-23T00:37:26.419Z</updated>
-        <summary type="html"><![CDATA[6th International School on Deep Learning [Guimarães, Portugal] [Apr 18, 2022 - Apr 22, 2022]]]></summary>
-        <author>
-            <name>CFPs on Artificial Intelligence : WikiCFP</name>
+            <name>CFPs on Computer Science : WikiCFP</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[DAI 2021 : The Third International Conference on Distributed Artificial Intelligence]]></title>
         <id>cfp-900233-S@wikicfp.com</id>
         <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143186&amp;copyownerid=56962"/>
-        <updated>2021-08-23T00:37:26.412Z</updated>
+        <updated>2021-08-24T00:38:55.357Z</updated>
         <summary type="html"><![CDATA[The Third International Conference on Distributed Artificial Intelligence [Shanghai, China] [Dec 16, 2021 - Dec 18, 2021]]]></summary>
         <author>
             <name>CFPs on Artificial Intelligence : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IPMV--Ei Compendex &amp; Scopus 2022 : 2022 4th International Conference on Image Processing and Machine Vision (IPMV 2022)--Ei Compendex, Scopus]]></title>
-        <id>cfp-900641-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143486&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.398Z</updated>
-        <summary type="html"><![CDATA[2022 4th International Conference on Image Processing and Machine Vision (IPMV 2022)--Ei Compendex, Scopus [Hong Kong] [Mar 25, 2022 - Mar 27, 2022]]]></summary>
+        <title type="html"><![CDATA[CSTE--Ei, Scopus 2022 : 2022 4th International Conference on Computer Science and Technologies in Education (CSTE 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-901483-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=144017&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.352Z</updated>
+        <summary type="html"><![CDATA[2022 4th International Conference on Computer Science and Technologies in Education (CSTE 2022)--Ei Compendex, Scopus [Xi'an, China] [May 6, 2022 - May 8, 2022]]]></summary>
         <author>
             <name>CFPs on Artificial Intelligence : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IJCKG 2021 : International Joint Conference on Knowledge Graphs]]></title>
-        <id>cfp-900913-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143606&amp;copyownerid=160855"/>
-        <updated>2021-08-23T00:37:26.392Z</updated>
-        <summary type="html"><![CDATA[International Joint Conference on Knowledge Graphs [Online / Bangkok, Thailand] [Dec 6, 2021 - Dec 8, 2021]]]></summary>
+        <title type="html"><![CDATA[ICNLP--Ei, Scopus 2022 : 2022 4th International Conference on Natural Language Processing (ICNLP 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-901484-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=144018&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.348Z</updated>
+        <summary type="html"><![CDATA[2022 4th International Conference on Natural Language Processing (ICNLP 2022)--Ei Compendex, Scopus [Xi'an, China] [Mar 25, 2022 - Mar 27, 2022]]]></summary>
         <author>
             <name>CFPs on Artificial Intelligence : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CMLA  2021 : 3rd International Conference on Machine Learning &amp; Applications]]></title>
-        <id>cfp-900437-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143357&amp;copyownerid=33993"/>
-        <updated>2021-08-23T00:37:26.387Z</updated>
-        <summary type="html"><![CDATA[3rd International Conference on Machine Learning & Applications  [Toronto, Canada] [Sep 25, 2021 - Sep 26, 2021]]]></summary>
-        <author>
-            <name>CFPs on Deep Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICIIT--Ei Compendex, Scopus 2022 : 2022 7th International Conference on Intelligent Information Technology (ICIIT 2022)--Ei Compendex, Scopus]]></title>
-        <id>cfp-900404-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143327&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.379Z</updated>
-        <summary type="html"><![CDATA[2022 7th International Conference on Intelligent Information Technology (ICIIT 2022)--Ei Compendex, Scopus [Foshan, China] [Feb 25, 2022 - Feb 27, 2022]]]></summary>
-        <author>
-            <name>CFPs on Artificial Intelligence : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOTCS--Scopus, EI Compendex 2022 : 2022 International Conference on Internet of Things and Computer Science (IOTCS 2022)--Scopus, EI Compendex]]></title>
-        <id>cfp-900058-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143047&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.373Z</updated>
-        <summary type="html"><![CDATA[2022 International Conference on Internet of Things and Computer Science (IOTCS 2022)--Scopus, EI Compendex [Oxford, United Kingdom] [Feb 18, 2022 - Feb 20, 2022]]]></summary>
-        <author>
-            <name>CFPs on Artificial Intelligence : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICMAI--SCI, Ei Compendex, Scopus 2022 : 2022 7th International Conference on Mathematics and Artificial Intelligence (ICMAI 2022)--SCI, Ei Compendex, Scopus]]></title>
-        <id>cfp-900064-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143053&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.367Z</updated>
-        <summary type="html"><![CDATA[2022 7th International Conference on Mathematics and Artificial Intelligence (ICMAI 2022)--SCI, Ei Compendex, Scopus [Chongqing, China] [Mar 18, 2022 - Mar 20, 2022]]]></summary>
+        <title type="html"><![CDATA[APCS--Springer, EI, Scopus 2022 : Springer--2022 The Asia Pacific Computer Systems Conference (APCS 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-900714-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143525&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.335Z</updated>
+        <summary type="html"><![CDATA[Springer--2022 The Asia Pacific Computer Systems Conference (APCS 2022)--Ei Compendex, Scopus [New York City, United States] [Mar 4, 2022 - Mar 6, 2022]]]></summary>
         <author>
             <name>CFPs on Artificial Intelligence : WikiCFP</name>
         </author>
@@ -519,88 +139,58 @@
         <title type="html"><![CDATA[CyberS_DL 2022 : Intersecting Privacy, Deep Learning, and Reinforcement Learning in Cybersecurity]]></title>
         <id>cfp-897468-S@wikicfp.com</id>
         <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=140703&amp;copyownerid=161296"/>
-        <updated>2021-08-23T00:37:26.359Z</updated>
+        <updated>2021-08-24T00:38:55.331Z</updated>
         <summary type="html"><![CDATA[Intersecting Privacy, Deep Learning, and Reinforcement Learning in Cybersecurity  [Book Chapter] [Aug 1, 2021 - Apr 1, 2022]]]></summary>
         <author>
             <name>CFPs on Deep Learning : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ICFCC--EI and Scopus 2022 : 2022 The 14th International Conference on Future Computer and Communication (ICFCC 2022)--Ei Compendex, Scopus]]></title>
-        <id>cfp-900633-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143478&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.353Z</updated>
-        <summary type="html"><![CDATA[2022 The 14th International Conference on Future Computer and Communication (ICFCC 2022)--Ei Compendex, Scopus [Singapore] [Feb 18, 2022 - Feb 20, 2022]]]></summary>
+        <title type="html"><![CDATA[ICRMV--Ei Compendex, Scopus 2022 : 2022 6th International Conference on Robotics and Machine Vision (ICRMV 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-900640-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143485&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.327Z</updated>
+        <summary type="html"><![CDATA[2022 6th International Conference on Robotics and Machine Vision (ICRMV 2022)--Ei Compendex, Scopus [Xiamen, China] [Feb 26, 2022 - Feb 28, 2022]]]></summary>
         <author>
             <name>CFPs on Artificial Intelligence : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Computer SI on SE4RAI 2023 : IEEE Computer - Special Issue on Software Engineering for Responsible AI]]></title>
-        <id>cfp-900700-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143515&amp;copyownerid=170531"/>
-        <updated>2021-08-23T00:37:26.338Z</updated>
-        <summary type="html"><![CDATA[IEEE Computer - Special Issue on Software Engineering for Responsible AI [IEEE Computer Special Issue] [Apr 1, 2023 - Apr 1, 2023]]]></summary>
+        <title type="html"><![CDATA[ICICT--Ei, Scopus 2022 : 2022 The 5th International Conference on Information and Computer Technologies (ICICT 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-900716-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143527&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.324Z</updated>
+        <summary type="html"><![CDATA[2022 The 5th International Conference on Information and Computer Technologies (ICICT 2022)--Ei Compendex, Scopus [New York City, United States] [Mar 4, 2022 - Mar 6, 2022]]]></summary>
         <author>
-            <name>CFPs on Artificial Intelligence : WikiCFP</name>
+            <name>CFPs on Computer Science : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICCT--Scopus, EI Compendex 2022 : 2022 International Conference on Computer Technologies (ICCT 2022)--Scopus, EI Compendex]]></title>
+        <id>cfp-900050-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143039&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.320Z</updated>
+        <summary type="html"><![CDATA[2022 International Conference on Computer Technologies (ICCT 2022)--Scopus, EI Compendex [Melaka, Malaysia] [Feb 24, 2022 - Feb 26, 2022]]]></summary>
+        <author>
+            <name>CFPs on Computer Science : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XAI 4 Debugging 2021 : eXplainable AI approaches for debugging and diagnosis]]></title>
+        <id>cfp-900091-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143071&amp;copyownerid=170439"/>
+        <updated>2021-08-24T00:38:55.315Z</updated>
+        <summary type="html"><![CDATA[eXplainable AI approaches for debugging and diagnosis [NeurIPS2021] [Dec 13, 2021 - Dec 14, 2021]]]></summary>
+        <author>
+            <name>CFPs on Machine Learning : WikiCFP</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[IEEE--ICMRE--Ei Compendex, Scopus 2022 : IEEE--2022 8th International Conference on Mechatronics and Robotics Engineering (ICMRE 2022)--Ei Compendex, Scopus]]></title>
         <id>cfp-900648-S@wikicfp.com</id>
         <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143493&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.332Z</updated>
+        <updated>2021-08-24T00:38:55.310Z</updated>
         <summary type="html"><![CDATA[IEEE--2022 8th International Conference on Mechatronics and Robotics Engineering (ICMRE 2022)--Ei Compendex, Scopus [Munich, Germany] [Feb 10, 2022 - Feb 12, 2022]]]></summary>
-        <author>
-            <name>CFPs on Artificial Intelligence : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACM--ICRAI--Scopus, EI Compendex 2021 : ACM--2021 7th International Conference on Robotics and Artificial Intelligence (ICRAI 2021)--Scopus, EI Compendex]]></title>
-        <id>cfp-900073-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143062&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.326Z</updated>
-        <summary type="html"><![CDATA[ACM--2021 7th International Conference on Robotics and Artificial Intelligence (ICRAI 2021)--Scopus, EI Compendex [Guangzhou, China] [Nov 19, 2021 - Nov 22, 2021]]]></summary>
-        <author>
-            <name>CFPs on Artificial Intelligence : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIHSS 2021 : Artificial Intelligence in the Human   and Social  Sciences]]></title>
-        <id>cfp-900376-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143311&amp;copyownerid=56745"/>
-        <updated>2021-08-23T00:37:26.320Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence in the Human   and Social  Sciences [Oran 1 University ] [Nov 2, 2021 - Nov 3, 2021]]]></summary>
-        <author>
-            <name>CFPs on Artificial Intelligence : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICECC--Ei, Scopus 2022 : 2022 5th International Conference on Electronics, Communications and Control Engineering (ICECC 2022)--Ei Compendex, Scopus]]></title>
-        <id>cfp-900415-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143338&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.314Z</updated>
-        <summary type="html"><![CDATA[2022 5th International Conference on Electronics, Communications and Control Engineering (ICECC 2022)--Ei Compendex, Scopus [Fukuoka Institute of Technology, Japan] [Mar 25, 2022 - Mar 27, 2022]]]></summary>
-        <author>
-            <name>CFPs on Artificial Intelligence : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICRCA--Ei, Scopus 2022 : 2022 The 6th International Conference on Robotics, Control and Automation (ICRCA 2022)--Ei Compendex, Scopus]]></title>
-        <id>cfp-900637-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143482&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.307Z</updated>
-        <summary type="html"><![CDATA[2022 The 6th International Conference on Robotics, Control and Automation (ICRCA 2022)--Ei Compendex, Scopus [Xiamen, China] [Feb 26, 2022 - Feb 28, 2022]]]></summary>
-        <author>
-            <name>CFPs on Artificial Intelligence : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICMVA--Ei Compendex, Scopus 2022 : 2022 5th International Conference on Machine Vision and Applications (ICMVA 2022)--Ei Compendex, Scopus]]></title>
-        <id>cfp-900636-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143481&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.302Z</updated>
-        <summary type="html"><![CDATA[2022 5th International Conference on Machine Vision and Applications (ICMVA 2022)--Ei Compendex, Scopus [Singapore] [Feb 18, 2022 - Feb 20, 2022]]]></summary>
         <author>
             <name>CFPs on Artificial Intelligence : WikiCFP</name>
         </author>
@@ -609,178 +199,308 @@
         <title type="html"><![CDATA[MICSECS 2021 : The Majorov International Conference on Software Engineering and Computer Systems]]></title>
         <id>cfp-900440-S@wikicfp.com</id>
         <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143359&amp;copyownerid=170480"/>
-        <updated>2021-08-23T00:37:26.297Z</updated>
+        <updated>2021-08-24T00:38:55.298Z</updated>
         <summary type="html"><![CDATA[The Majorov International Conference on Software Engineering and Computer Systems [Saint-Petersburg, Russia] [Dec 1, 2021 - Dec 3, 2021]]]></summary>
         <author>
             <name>CFPs on Artificial Intelligence : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IEEE-MLNLP 2021 : 2021 4th International Conference on Machine Learning and Natural Language Processing (MLNLP 2021)]]></title>
-        <id>cfp-897218-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=140502&amp;copyownerid=163993"/>
-        <updated>2021-08-23T00:37:26.274Z</updated>
-        <summary type="html"><![CDATA[2021 4th International Conference on Machine Learning and Natural Language Processing (MLNLP 2021) [Sanya, China] [Dec 27, 2021 - Dec 29, 2021]]]></summary>
+        <title type="html"><![CDATA[MIIP-III 2021 : Medical Imaging &amp; Image Processing III (MIIP-III)]]></title>
+        <id>cfp-890339-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=136099&amp;copyownerid=82002"/>
+        <updated>2021-08-24T00:38:55.293Z</updated>
+        <summary type="html"><![CDATA[Medical Imaging & Image Processing III (MIIP-III)]]></summary>
+        <author>
+            <name>CFPs on Deep Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IOTCS--Scopus, EI Compendex 2022 : 2022 International Conference on Internet of Things and Computer Science (IOTCS 2022)--Scopus, EI Compendex]]></title>
+        <id>cfp-900058-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143047&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.289Z</updated>
+        <summary type="html"><![CDATA[2022 International Conference on Internet of Things and Computer Science (IOTCS 2022)--Scopus, EI Compendex [Oxford, United Kingdom] [Feb 18, 2022 - Feb 20, 2022]]]></summary>
+        <author>
+            <name>CFPs on Computer Science : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepLearn Spring 2022 : 6th International School on Deep Learning]]></title>
+        <id>cfp-900186-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143154&amp;copyownerid=104521"/>
+        <updated>2021-08-24T00:38:55.285Z</updated>
+        <summary type="html"><![CDATA[6th International School on Deep Learning [Guimarães, Portugal] [Apr 18, 2022 - Apr 22, 2022]]]></summary>
+        <author>
+            <name>CFPs on Deep Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepLearn Spring 2022 : 6th International School on Deep Learning]]></title>
+        <id>cfp-900186-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143154&amp;copyownerid=104521"/>
+        <updated>2021-08-24T00:38:55.280Z</updated>
+        <summary type="html"><![CDATA[6th International School on Deep Learning [Guimarães, Portugal] [Apr 18, 2022 - Apr 22, 2022]]]></summary>
         <author>
             <name>CFPs on Machine Learning : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ICON 2021 : 18th International Conference  on Natural Language Processing]]></title>
-        <id>cfp-897620-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=140837&amp;copyownerid=170339"/>
-        <updated>2021-08-23T00:37:26.268Z</updated>
-        <summary type="html"><![CDATA[18th International Conference  on Natural Language Processing [NIT Silchar, India] [Dec 16, 2021 - Dec 19, 2021]]]></summary>
+        <title type="html"><![CDATA[CSEE--EI Compendex, Scopus 2022 : 2022 3rd International Conference on Computer Science, Engineering and Education (CSEE 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-900075-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143064&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.275Z</updated>
+        <summary type="html"><![CDATA[2022 3rd International Conference on Computer Science, Engineering and Education (CSEE 2022)--Ei Compendex, Scopus [Sanya, China] [Feb 25, 2022 - Feb 27, 2022]]]></summary>
         <author>
-            <name>CFPs on Machine Learning : WikiCFP</name>
+            <name>CFPs on Computer Science : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AICS 2021 : AICS 2021: 29th Irish Conference on Artificial Intelligence and Cognitive Science]]></title>
-        <id>cfp-897117-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=140466&amp;copyownerid=164062"/>
-        <updated>2021-08-23T00:37:26.263Z</updated>
-        <summary type="html"><![CDATA[AICS 2021: 29th Irish Conference on Artificial Intelligence and Cognitive Science [Dublin] [Dec 9, 2021 - Dec 11, 2021]]]></summary>
+        <title type="html"><![CDATA[ICRCA--Ei, Scopus 2022 : 2022 The 6th International Conference on Robotics, Control and Automation (ICRCA 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-900637-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143482&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.271Z</updated>
+        <summary type="html"><![CDATA[2022 The 6th International Conference on Robotics, Control and Automation (ICRCA 2022)--Ei Compendex, Scopus [Xiamen, China] [Feb 26, 2022 - Feb 28, 2022]]]></summary>
         <author>
-            <name>CFPs on Machine Learning : WikiCFP</name>
+            <name>CFPs on Artificial Intelligence : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OPT 2021 : NeurIPS Workshop on Optimization for Machine Learning (OPT21)]]></title>
-        <id>cfp-897057-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=140435&amp;copyownerid=157053"/>
-        <updated>2021-08-23T00:37:26.254Z</updated>
-        <summary type="html"><![CDATA[NeurIPS Workshop on Optimization for Machine Learning (OPT21) [virtual] [Dec 13, 2021 - Dec 14, 2021]]]></summary>
+        <title type="html"><![CDATA[SIGPRO 2021 : International Conference on Data Science and Cloud Computing]]></title>
+        <id>cfp-901511-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=144038&amp;copyownerid=33993"/>
+        <updated>2021-08-24T00:38:55.267Z</updated>
+        <summary type="html"><![CDATA[International Conference on Data Science and Cloud Computing  [Copenhagen, Denmark] [Sep 18, 2021 - Sep 19, 2021]]]></summary>
         <author>
-            <name>CFPs on Machine Learning : WikiCFP</name>
+            <name>CFPs on Computer Science : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LAWCN  2021 : III Latin American Workshop on Computational Neuroscience]]></title>
-        <id>cfp-900005-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143021&amp;copyownerid=170431"/>
-        <updated>2021-08-23T00:37:26.248Z</updated>
-        <summary type="html"><![CDATA[III Latin American Workshop on Computational Neuroscience [Hybird: São Luís (Brazil) and Online] [Dec 8, 2021 - Dec 10, 2021]]]></summary>
+        <title type="html"><![CDATA[ICLR 2022 : The Tenth International Conference on Learning Representations]]></title>
+        <id>cfp-892985-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137564&amp;copyownerid=692"/>
+        <updated>2021-08-24T00:38:55.262Z</updated>
+        <summary type="html"><![CDATA[The Tenth International Conference on Learning Representations [Virtual-only] [Apr 25, 2022 - Apr 29, 2022]]]></summary>
         <author>
-            <name>CFPs on Machine Learning : WikiCFP</name>
+            <name>CFPs on Deep Learning : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CyberS_DL 2022 : Intersecting Privacy, Deep Learning, and Reinforcement Learning in Cybersecurity]]></title>
-        <id>cfp-897468-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=140703&amp;copyownerid=161296"/>
-        <updated>2021-08-23T00:37:26.237Z</updated>
-        <summary type="html"><![CDATA[Intersecting Privacy, Deep Learning, and Reinforcement Learning in Cybersecurity  [Book Chapter] [Aug 1, 2021 - Apr 1, 2022]]]></summary>
+        <title type="html"><![CDATA[IPMV--Ei &amp; Scopus 2022 : 2022 4th International Conference on Image Processing and Machine Vision (IPMV 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-900642-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143487&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.247Z</updated>
+        <summary type="html"><![CDATA[2022 4th International Conference on Image Processing and Machine Vision (IPMV 2022)--Ei Compendex, Scopus [Hong Kong] [Mar 25, 2022 - Mar 27, 2022]]]></summary>
         <author>
-            <name>CFPs on Machine Learning : WikiCFP</name>
+            <name>CFPs on Computer Science : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XAI 4 Debugging 2021 : eXplainable AI approaches for debugging and diagnosis]]></title>
-        <id>cfp-900091-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143071&amp;copyownerid=170439"/>
-        <updated>2021-08-23T00:37:26.230Z</updated>
-        <summary type="html"><![CDATA[eXplainable AI approaches for debugging and diagnosis [NeurIPS2021] [Dec 13, 2021 - Dec 14, 2021]]]></summary>
+        <title type="html"><![CDATA[DIDL 2021 : Fifth Workshop on Distributed Infrastructures for Deep Learning]]></title>
+        <id>cfp-894473-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138566&amp;copyownerid=120063"/>
+        <updated>2021-08-24T00:38:55.244Z</updated>
+        <summary type="html"><![CDATA[Fifth Workshop on Distributed Infrastructures for Deep Learning [Québec, Canada] [Dec 6, 2021 - Dec 10, 2021]]]></summary>
         <author>
-            <name>CFPs on Machine Learning : WikiCFP</name>
+            <name>CFPs on Deep Learning : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PROPOR 2022 : PROPOR 2022 - 15th International Conference on Computational Processing of Portuguese]]></title>
-        <id>cfp-887319-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=134192&amp;copyownerid=169262"/>
-        <updated>2021-08-23T00:37:26.215Z</updated>
-        <summary type="html"><![CDATA[PROPOR 2022 - 15th International Conference on Computational Processing of Portuguese  [Fortaleza, Brazil] [Mar 21, 2022 - Mar 22, 2022]]]></summary>
+        <title type="html"><![CDATA[AIM 2021 : ICCV 2021 - Advances in Image Manipulation workshop and challenges]]></title>
+        <id>cfp-896497-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=139926&amp;copyownerid=90126"/>
+        <updated>2021-08-24T00:38:55.239Z</updated>
+        <summary type="html"><![CDATA[ICCV 2021 - Advances in Image Manipulation workshop and challenges [Montreal, Canada] [Oct 11, 2021 - Oct 11, 2021]]]></summary>
         <author>
-            <name>CFPs on Natural Language Processing : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICRMV--Ei, Scopus 2022 : 2022 6th International Conference on Robotics and Machine Vision (ICRMV 2022)--Ei Compendex, Scopus]]></title>
-        <id>cfp-900639-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143484&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.209Z</updated>
-        <summary type="html"><![CDATA[2022 6th International Conference on Robotics and Machine Vision (ICRMV 2022)--Ei Compendex, Scopus [Xiamen, China] [Feb 26, 2022 - Feb 28, 2022]]]></summary>
-        <author>
-            <name>CFPs on Machine Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DLIS 2022 : Deep Learning for IoT Security - Frontiers in Big Data Journal]]></title>
-        <id>cfp-897137-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=140471&amp;copyownerid=170286"/>
-        <updated>2021-08-23T00:37:26.194Z</updated>
-        <summary type="html"><![CDATA[Deep Learning for IoT Security - Frontiers in Big Data Journal]]></summary>
-        <author>
-            <name>CFPs on Machine Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IJCKG 2021 : International Joint Conference on Knowledge Graphs]]></title>
-        <id>cfp-900913-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143606&amp;copyownerid=160855"/>
-        <updated>2021-08-23T00:37:26.187Z</updated>
-        <summary type="html"><![CDATA[International Joint Conference on Knowledge Graphs [Online / Bangkok, Thailand] [Dec 6, 2021 - Dec 8, 2021]]]></summary>
-        <author>
-            <name>CFPs on Machine Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NLPML 2022 : 3rd International Conference on Natural Language Processing and Machine Learning]]></title>
-        <id>cfp-887198-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=134092&amp;copyownerid=33993"/>
-        <updated>2021-08-23T00:37:26.181Z</updated>
-        <summary type="html"><![CDATA[3rd International Conference on Natural Language Processing and Machine Learning [Vancouver, Canada] [May 28, 2022 - May 29, 2022]]]></summary>
-        <author>
-            <name>CFPs on Natural Language Processing : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CMLA  2021 : 3rd International Conference on Machine Learning &amp; Applications]]></title>
-        <id>cfp-900437-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143357&amp;copyownerid=33993"/>
-        <updated>2021-08-23T00:37:26.172Z</updated>
-        <summary type="html"><![CDATA[3rd International Conference on Machine Learning & Applications  [Toronto, Canada] [Sep 25, 2021 - Sep 26, 2021]]]></summary>
-        <author>
-            <name>CFPs on Machine Learning : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DMA 2022 : 8th International Conference on Data Mining and Applications]]></title>
-        <id>cfp-887331-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=134199&amp;copyownerid=33993"/>
-        <updated>2021-08-23T00:37:26.165Z</updated>
-        <summary type="html"><![CDATA[8th International Conference on Data Mining and Applications [Vancouver, Canada] [May 28, 2022 - May 29, 2022]]]></summary>
-        <author>
-            <name>CFPs on Natural Language Processing : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCAIoT 2021 : Global Conference on Artificial Intelligence  &amp; Internet of Things]]></title>
-        <id>cfp-897446-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=140688&amp;copyownerid=164578"/>
-        <updated>2021-08-23T00:37:26.159Z</updated>
-        <summary type="html"><![CDATA[Global Conference on Artificial Intelligence  & Internet of Things [Dubai, United Arab Emirates] [Dec 12, 2021 - Dec 16, 2021]]]></summary>
-        <author>
-            <name>CFPs on Machine Learning : WikiCFP</name>
+            <name>CFPs on Deep Learning : WikiCFP</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Computer SI on SE4RAI 2023 : IEEE Computer - Special Issue on Software Engineering for Responsible AI]]></title>
         <id>cfp-900700-S@wikicfp.com</id>
         <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143515&amp;copyownerid=170531"/>
-        <updated>2021-08-23T00:37:26.140Z</updated>
+        <updated>2021-08-24T00:38:55.235Z</updated>
         <summary type="html"><![CDATA[IEEE Computer - Special Issue on Software Engineering for Responsible AI [IEEE Computer Special Issue] [Apr 1, 2023 - Apr 1, 2023]]]></summary>
         <author>
-            <name>CFPs on Machine Learning : WikiCFP</name>
+            <name>CFPs on Artificial Intelligence : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CAMLIS 2021 : Conference on Applied Machine Learning for Information Security]]></title>
-        <id>cfp-898862-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=142032&amp;copyownerid=153991"/>
-        <updated>2021-08-23T00:37:26.132Z</updated>
-        <summary type="html"><![CDATA[Conference on Applied Machine Learning for Information Security [Arlingon, VA] [Nov 4, 2021 - Nov 5, 2021]]]></summary>
+        <title type="html"><![CDATA[DLIS 2022 : Deep Learning for IoT Security - Frontiers in Big Data Journal]]></title>
+        <id>cfp-897137-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=140471&amp;copyownerid=170286"/>
+        <updated>2021-08-24T00:38:55.230Z</updated>
+        <summary type="html"><![CDATA[Deep Learning for IoT Security - Frontiers in Big Data Journal]]></summary>
+        <author>
+            <name>CFPs on Deep Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepLearn Winter 2022 : 5th International School on Deep Learning]]></title>
+        <id>cfp-894708-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138776&amp;copyownerid=104521"/>
+        <updated>2021-08-24T00:38:55.225Z</updated>
+        <summary type="html"><![CDATA[5th International School on Deep Learning [Bournemouth, UK] [Jan 17, 2022 - Jan 21, 2022]]]></summary>
+        <author>
+            <name>CFPs on Deep Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACMSE 2022 : ACMSE 2022: The Annual ACM Southeast Conference]]></title>
+        <id>cfp-900532-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143407&amp;copyownerid=95237"/>
+        <updated>2021-08-24T00:38:55.214Z</updated>
+        <summary type="html"><![CDATA[ACMSE 2022: The Annual ACM Southeast Conference [Oxford, Alabama, USA] [Apr 18, 2022 - Apr 20, 2022]]]></summary>
+        <author>
+            <name>CFPs on Computer Science : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APCS--Springer, EI, Scopus 2022 : Springer--2022 The Asia Pacific Computer Systems Conference (APCS 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-900714-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143525&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.208Z</updated>
+        <summary type="html"><![CDATA[Springer--2022 The Asia Pacific Computer Systems Conference (APCS 2022)--Ei Compendex, Scopus [New York City, United States] [Mar 4, 2022 - Mar 6, 2022]]]></summary>
+        <author>
+            <name>CFPs on Computer Science : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICMVA--Ei Compendex, Scopus 2022 : 2022 5th International Conference on Machine Vision and Applications (ICMVA 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-900636-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143481&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.204Z</updated>
+        <summary type="html"><![CDATA[2022 5th International Conference on Machine Vision and Applications (ICMVA 2022)--Ei Compendex, Scopus [Singapore] [Feb 18, 2022 - Feb 20, 2022]]]></summary>
+        <author>
+            <name>CFPs on Artificial Intelligence : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CMLA  2021 : 3rd International Conference on Machine Learning &amp; Applications]]></title>
+        <id>cfp-900437-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143357&amp;copyownerid=33993"/>
+        <updated>2021-08-24T00:38:55.199Z</updated>
+        <summary type="html"><![CDATA[3rd International Conference on Machine Learning & Applications  [Toronto, Canada] [Sep 25, 2021 - Sep 26, 2021]]]></summary>
+        <author>
+            <name>CFPs on Deep Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETRJ Immersive 2022 : Realistic and Immersive Media Technologies]]></title>
+        <id>cfp-891785-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137044&amp;copyownerid=100214"/>
+        <updated>2021-08-24T00:38:55.193Z</updated>
+        <summary type="html"><![CDATA[Realistic and Immersive Media Technologies]]></summary>
+        <author>
+            <name>CFPs on Deep Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NLDL 2022 : Northern Lights Deep Learning Conference 2022]]></title>
+        <id>cfp-893872-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138133&amp;copyownerid=169968"/>
+        <updated>2021-08-24T00:38:55.189Z</updated>
+        <summary type="html"><![CDATA[Northern Lights Deep Learning Conference 2022 [Tromsø, Norway] [Jan 10, 2022 - Jan 12, 2022]]]></summary>
+        <author>
+            <name>CFPs on Deep Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICMVA--Ei, Scopus 2022 : 2022 5th International Conference on Machine Vision and Applications (ICMVA 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-900634-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143479&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.185Z</updated>
+        <summary type="html"><![CDATA[2022 5th International Conference on Machine Vision and Applications (ICMVA 2022)--Ei Compendex, Scopus [Singapore] [Feb 18, 2022 - Feb 20, 2022]]]></summary>
+        <author>
+            <name>CFPs on Computer Science : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPMV--Ei Compendex &amp; Scopus 2022 : 2022 4th International Conference on Image Processing and Machine Vision (IPMV 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-900641-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143486&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.181Z</updated>
+        <summary type="html"><![CDATA[2022 4th International Conference on Image Processing and Machine Vision (IPMV 2022)--Ei Compendex, Scopus [Hong Kong] [Mar 25, 2022 - Mar 27, 2022]]]></summary>
+        <author>
+            <name>CFPs on Artificial Intelligence : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IEEE--ICICSE--Ei, Scopus 2022 : IEEE--2022 2nd International Conference on Information Communication and Software Engineering (ICICSE 2022)--Scopus, EI Compendex]]></title>
+        <id>cfp-900062-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143051&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.175Z</updated>
+        <summary type="html"><![CDATA[IEEE--2022 2nd International Conference on Information Communication and Software Engineering (ICICSE 2022)--Scopus, EI Compendex [Chongqing, China] [Mar 18, 2022 - Mar 20, 2022]]]></summary>
+        <author>
+            <name>CFPs on Computer Science : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IJCKG 2021 : International Joint Conference on Knowledge Graphs]]></title>
+        <id>cfp-900913-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143606&amp;copyownerid=160855"/>
+        <updated>2021-08-24T00:38:55.170Z</updated>
+        <summary type="html"><![CDATA[International Joint Conference on Knowledge Graphs [Online / Bangkok, Thailand] [Dec 6, 2021 - Dec 8, 2021]]]></summary>
+        <author>
+            <name>CFPs on Artificial Intelligence : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICIIT--Ei Compendex, Scopus 2022 : 2022 7th International Conference on Intelligent Information Technology (ICIIT 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-900404-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143327&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.165Z</updated>
+        <summary type="html"><![CDATA[2022 7th International Conference on Intelligent Information Technology (ICIIT 2022)--Ei Compendex, Scopus [Foshan, China] [Feb 25, 2022 - Feb 27, 2022]]]></summary>
+        <author>
+            <name>CFPs on Artificial Intelligence : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AISTATS 2022 : 25th International Conference on Artificial Intelligence and Statistics]]></title>
+        <id>cfp-894616-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138697&amp;copyownerid=13149"/>
+        <updated>2021-08-24T00:38:55.158Z</updated>
+        <summary type="html"><![CDATA[25th International Conference on Artificial Intelligence and Statistics [Valencia, Spain] [Mar 30, 2022 - Apr 1, 2022]]]></summary>
+        <author>
+            <name>CFPs on Deep Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIHSS 2021 : Artificial Intelligence in the Human   and Social  Sciences]]></title>
+        <id>cfp-900376-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143311&amp;copyownerid=56745"/>
+        <updated>2021-08-24T00:38:55.141Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence in the Human   and Social  Sciences [Oran 1 University ] [Nov 2, 2021 - Nov 3, 2021]]]></summary>
+        <author>
+            <name>CFPs on Artificial Intelligence : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CMLA  2021 : 3rd International Conference on Machine Learning &amp; Applications]]></title>
+        <id>cfp-900437-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143357&amp;copyownerid=33993"/>
+        <updated>2021-08-24T00:38:55.132Z</updated>
+        <summary type="html"><![CDATA[3rd International Conference on Machine Learning & Applications  [Toronto, Canada] [Sep 25, 2021 - Sep 26, 2021]]]></summary>
+        <author>
+            <name>CFPs on Artificial Intelligence : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AISM--Ei, Scopus 2021 : The Eighth Asia International Symposium On Mechatronics (AISM 2021)--Ei Compendex, Scopus]]></title>
+        <id>cfp-901495-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=144029&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.119Z</updated>
+        <summary type="html"><![CDATA[The Eighth Asia International Symposium On Mechatronics (AISM 2021)--Ei Compendex, Scopus [Liuzhou, China] [Dec 16, 2021 - Dec 19, 2021]]]></summary>
+        <author>
+            <name>CFPs on Artificial Intelligence : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ITNG 2022 : The 19th Int'l Conf. on Information Technology: New Generations]]></title>
+        <id>cfp-900006-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143022&amp;copyownerid=103024"/>
+        <updated>2021-08-24T00:38:55.110Z</updated>
+        <summary type="html"><![CDATA[The 19th Int'l Conf. on Information Technology: New Generations [Las Vegas] [Apr 10, 2022 - Apr 13, 2022]]]></summary>
         <author>
             <name>CFPs on Machine Learning : WikiCFP</name>
         </author>
@@ -789,48 +509,298 @@
         <title type="html"><![CDATA[WADMachine Learning Day 2021 : WeAreDevelopers Live - Machine Learning Day]]></title>
         <id>cfp-900135-S@wikicfp.com</id>
         <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143111&amp;copyownerid=166720"/>
-        <updated>2021-08-23T00:37:26.123Z</updated>
+        <updated>2021-08-24T00:38:55.102Z</updated>
         <summary type="html"><![CDATA[WeAreDevelopers Live - Machine Learning Day [Online] [Oct 13, 2021 - Oct 13, 2021]]]></summary>
         <author>
             <name>CFPs on Machine Learning : WikiCFP</name>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[JBHI_SIAADL 2021 : IEEE JBHI special issue on Skin Image Analysis in the Age of Deep Learning]]></title>
+        <id>cfp-890233-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=136037&amp;copyownerid=3780"/>
+        <updated>2021-08-24T00:38:55.084Z</updated>
+        <summary type="html"><![CDATA[IEEE JBHI special issue on Skin Image Analysis in the Age of Deep Learning]]></summary>
+        <author>
+            <name>CFPs on Deep Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICNLP--Ei Compendex, Scopus 2022 : 2022 4th International Conference on Natural Language Processing (ICNLP 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-901485-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=144019&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.077Z</updated>
+        <summary type="html"><![CDATA[2022 4th International Conference on Natural Language Processing (ICNLP 2022)--Ei Compendex, Scopus [Xi'an, China] [Mar 25, 2022 - Mar 27, 2022]]]></summary>
+        <author>
+            <name>CFPs on Computer Science : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOFEA 2021 : 7th International Conference on Software Engineering and Applications]]></title>
+        <id>cfp-900656-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143500&amp;copyownerid=46167"/>
+        <updated>2021-08-24T00:38:55.072Z</updated>
+        <summary type="html"><![CDATA[7th International Conference on Software Engineering and Applications [Sydney, Australia] [Oct 23, 2021 - Oct 24, 2021]]]></summary>
+        <author>
+            <name>CFPs on Computer Science : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PIC 2021 : The 2021 IEEE International Conference on Progress in Informatics and Computing]]></title>
+        <id>cfp-900394-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143319&amp;copyownerid=170473"/>
+        <updated>2021-08-24T00:38:55.067Z</updated>
+        <summary type="html"><![CDATA[The 2021 IEEE International Conference on Progress in Informatics and Computing [Shanghai/Tampere] [Dec 17, 2021 - Dec 19, 2021]]]></summary>
+        <author>
+            <name>CFPs on Computer Science : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACM--ICSCA--Ei, Scopus 2022 : ACM--2022 11th International Conference on Software and Computer Applications (ICSCA 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-900055-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143044&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.061Z</updated>
+        <summary type="html"><![CDATA[ACM--2022 11th International Conference on Software and Computer Applications (ICSCA 2022)--Ei Compendex, Scopus [Melaka, Malaysia] [Feb 24, 2022 - Feb 26, 2022]]]></summary>
+        <author>
+            <name>CFPs on Computer Science : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEVIANCE 2021 : Workshop on Deviant Activities on Social Media Co-located with 2021 IEEE Conference on Big Data (IEEE BigData 2021)]]></title>
+        <id>cfp-900373-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143310&amp;copyownerid=164458"/>
+        <updated>2021-08-24T00:38:55.054Z</updated>
+        <summary type="html"><![CDATA[Workshop on Deviant Activities on Social Media Co-located with 2021 IEEE Conference on Big Data (IEEE BigData 2021) [Virtual] [Dec 15, 2021 - Dec 18, 2021]]]></summary>
+        <author>
+            <name>CFPs on Computer Science : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICICT--Ei, Scopus 2022 : 2022 The 5th International Conference on Information and Computer Technologies (ICICT 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-900716-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143527&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.048Z</updated>
+        <summary type="html"><![CDATA[2022 The 5th International Conference on Information and Computer Technologies (ICICT 2022)--Ei Compendex, Scopus [New York City, United States] [Mar 4, 2022 - Mar 6, 2022]]]></summary>
+        <author>
+            <name>CFPs on Artificial Intelligence : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICECC--Ei, Scopus 2022 : 2022 5th International Conference on Electronics, Communications and Control Engineering (ICECC 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-900415-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143338&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.032Z</updated>
+        <summary type="html"><![CDATA[2022 5th International Conference on Electronics, Communications and Control Engineering (ICECC 2022)--Ei Compendex, Scopus [Fukuoka Institute of Technology, Japan] [Mar 25, 2022 - Mar 27, 2022]]]></summary>
+        <author>
+            <name>CFPs on Artificial Intelligence : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISAI--Ei Compendex, Scopus 2022 : 2022 the 2nd International Symposium on AI (ISAI 2022)--Scopus, EI Compendex]]></title>
+        <id>cfp-900068-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143057&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.026Z</updated>
+        <summary type="html"><![CDATA[2022 the 2nd International Symposium on AI (ISAI 2022)--Scopus, EI Compendex [Chengdu, China] [Apr 22, 2022 - Apr 24, 2022]]]></summary>
+        <author>
+            <name>CFPs on Computer Science : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICFCC--EI and Scopus 2022 : 2022 The 14th International Conference on Future Computer and Communication (ICFCC 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-900633-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143478&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.018Z</updated>
+        <summary type="html"><![CDATA[2022 The 14th International Conference on Future Computer and Communication (ICFCC 2022)--Ei Compendex, Scopus [Singapore] [Feb 18, 2022 - Feb 20, 2022]]]></summary>
+        <author>
+            <name>CFPs on Artificial Intelligence : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICFCC--EI Compendex and Scopus 2022 : 2022 The 14th International Conference on Future Computer and Communication (ICFCC 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-900632-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143477&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:55.013Z</updated>
+        <summary type="html"><![CDATA[2022 The 14th International Conference on Future Computer and Communication (ICFCC 2022)--Ei Compendex, Scopus [Singapore] [Feb 18, 2022 - Feb 20, 2022]]]></summary>
+        <author>
+            <name>CFPs on Computer Science : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BDIoT 2021 : 2nd International Conference on Big Data &amp; IOT]]></title>
+        <id>cfp-900087-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143070&amp;copyownerid=33993"/>
+        <updated>2021-08-24T00:38:55.005Z</updated>
+        <summary type="html"><![CDATA[2nd International Conference on Big Data & IOT  [Copenhagen, Denmark] [Sep 18, 2021 - Sep 19, 2021]]]></summary>
+        <author>
+            <name>CFPs on Computer Science : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICIAI--Ei Compendex, Scopus 2022 : 2022 6th International Conference on Innovation in Artificial Intelligence (ICIAI 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-900423-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143346&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:54.993Z</updated>
+        <summary type="html"><![CDATA[2022 6th International Conference on Innovation in Artificial Intelligence (ICIAI 2022)--Ei Compendex, Scopus [Guangzhou, China] [Mar 4, 2022 - Mar 6, 2022]]]></summary>
+        <author>
+            <name>CFPs on Artificial Intelligence : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ICMVA--Ei, Scopus 2022 : 2022 5th International Conference on Machine Vision and Applications (ICMVA 2022)--Ei Compendex, Scopus]]></title>
         <id>cfp-900634-S@wikicfp.com</id>
         <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143479&amp;copyownerid=13881"/>
-        <updated>2021-08-23T00:37:26.117Z</updated>
+        <updated>2021-08-24T00:38:54.958Z</updated>
         <summary type="html"><![CDATA[2022 5th International Conference on Machine Vision and Applications (ICMVA 2022)--Ei Compendex, Scopus [Singapore] [Feb 18, 2022 - Feb 20, 2022]]]></summary>
         <author>
             <name>CFPs on Machine Learning : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ITNG 2022 : The 19th Int'l Conf. on Information Technology: New Generations]]></title>
-        <id>cfp-900006-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143022&amp;copyownerid=103024"/>
-        <updated>2021-08-23T00:37:26.111Z</updated>
-        <summary type="html"><![CDATA[The 19th Int'l Conf. on Information Technology: New Generations [Las Vegas] [Apr 10, 2022 - Apr 13, 2022]]]></summary>
+        <title type="html"><![CDATA[IJCKG 2021 : International Joint Conference on Knowledge Graphs]]></title>
+        <id>cfp-900913-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143606&amp;copyownerid=160855"/>
+        <updated>2021-08-24T00:38:54.953Z</updated>
+        <summary type="html"><![CDATA[International Joint Conference on Knowledge Graphs [Online / Bangkok, Thailand] [Dec 6, 2021 - Dec 8, 2021]]]></summary>
         <author>
             <name>CFPs on Machine Learning : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KG@SAC 2022 : ACM SAC 2022 Track on Knowledge Graphs]]></title>
-        <id>cfp-897340-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=140592&amp;copyownerid=8679"/>
-        <updated>2021-08-23T00:37:26.103Z</updated>
-        <summary type="html"><![CDATA[ACM SAC 2022 Track on Knowledge Graphs [Brno, Czech Republic] [Apr 25, 2022 - Apr 29, 2022]]]></summary>
+        <title type="html"><![CDATA[BDSN 2021 : The 9th International workshop on Big Data and Social Networking Management and Security]]></title>
+        <id>cfp-901457-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143997&amp;copyownerid=26246"/>
+        <updated>2021-08-24T00:38:54.936Z</updated>
+        <summary type="html"><![CDATA[The 9th International workshop on Big Data and Social Networking Management and Security [Gandia, Spain] [Dec 6, 2021 - Dec 9, 2021]]]></summary>
         <author>
             <name>CFPs on Machine Learning : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeepLearn Spring 2022 : 6th International School on Deep Learning]]></title>
-        <id>cfp-900186-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143154&amp;copyownerid=104521"/>
-        <updated>2021-08-23T00:37:26.096Z</updated>
-        <summary type="html"><![CDATA[6th International School on Deep Learning [Guimarães, Portugal] [Apr 18, 2022 - Apr 22, 2022]]]></summary>
+        <title type="html"><![CDATA[ICRMV--Ei, Scopus 2022 : 2022 6th International Conference on Robotics and Machine Vision (ICRMV 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-900639-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143484&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:54.929Z</updated>
+        <summary type="html"><![CDATA[2022 6th International Conference on Robotics and Machine Vision (ICRMV 2022)--Ei Compendex, Scopus [Xiamen, China] [Feb 26, 2022 - Feb 28, 2022]]]></summary>
+        <author>
+            <name>CFPs on Machine Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DSEA 2021 : The 5th International Workshop on Data Science Engineering and its Applications]]></title>
+        <id>cfp-901458-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143998&amp;copyownerid=26246"/>
+        <updated>2021-08-24T00:38:54.923Z</updated>
+        <summary type="html"><![CDATA[The 5th International Workshop on Data Science Engineering and its Applications [Gandia, Spain] [Dec 6, 2021 - Dec 9, 2021]]]></summary>
+        <author>
+            <name>CFPs on Machine Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CMLA  2021 : 3rd International Conference on Machine Learning &amp; Applications]]></title>
+        <id>cfp-900437-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143357&amp;copyownerid=33993"/>
+        <updated>2021-08-24T00:38:54.916Z</updated>
+        <summary type="html"><![CDATA[3rd International Conference on Machine Learning & Applications  [Toronto, Canada] [Sep 25, 2021 - Sep 26, 2021]]]></summary>
+        <author>
+            <name>CFPs on Machine Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCSMS 2021 : The 7th IEEE International Workshop on Mobile Cloud Computing systems, Management, and Security]]></title>
+        <id>cfp-901454-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143994&amp;copyownerid=26246"/>
+        <updated>2021-08-24T00:38:54.909Z</updated>
+        <summary type="html"><![CDATA[The 7th IEEE International Workshop on Mobile Cloud Computing systems, Management, and Security [Gandia, Spain] [Dec 6, 2021 - Dec 9, 2021]]]></summary>
+        <author>
+            <name>CFPs on Machine Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer SI on SE4RAI 2023 : IEEE Computer - Special Issue on Software Engineering for Responsible AI]]></title>
+        <id>cfp-900700-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143515&amp;copyownerid=170531"/>
+        <updated>2021-08-24T00:38:54.902Z</updated>
+        <summary type="html"><![CDATA[IEEE Computer - Special Issue on Software Engineering for Responsible AI [IEEE Computer Special Issue] [Apr 1, 2023 - Apr 1, 2023]]]></summary>
+        <author>
+            <name>CFPs on Machine Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OSNT 2021 : The 7th International Workshop on Online Social Networks Technologies]]></title>
+        <id>cfp-901459-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143999&amp;copyownerid=26246"/>
+        <updated>2021-08-24T00:38:54.895Z</updated>
+        <summary type="html"><![CDATA[The 7th International Workshop on Online Social Networks Technologies [Gandia, Spain] [Dec 6, 2021 - Dec 9, 2021]]]></summary>
+        <author>
+            <name>CFPs on Machine Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FCST 2021 : The 4th IEEE International Symposium on Future Cyber Security Technologies]]></title>
+        <id>cfp-901456-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=143996&amp;copyownerid=26246"/>
+        <updated>2021-08-24T00:38:54.890Z</updated>
+        <summary type="html"><![CDATA[The 4th IEEE International Symposium on Future Cyber Security Technologies [Gandia, Spain] [Dec 6, 2021 - Dec 9, 2021]]]></summary>
+        <author>
+            <name>CFPs on Machine Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNS 2021 : The International Workshop on Cognitive and Neural Systems]]></title>
+        <id>cfp-901462-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=144002&amp;copyownerid=26246"/>
+        <updated>2021-08-24T00:38:54.870Z</updated>
+        <summary type="html"><![CDATA[The International Workshop on Cognitive and Neural Systems [Gandia, Spain] [Dec 6, 2021 - Dec 9, 2021]]]></summary>
+        <author>
+            <name>CFPs on Machine Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoTNAT 2021 : The 7th International Workshop on Internet of Things: Networking Applications and Technologies]]></title>
+        <id>cfp-901464-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=144004&amp;copyownerid=26246"/>
+        <updated>2021-08-24T00:38:54.834Z</updated>
+        <summary type="html"><![CDATA[The 7th International Workshop on Internet of Things: Networking Applications and Technologies  [Gandia, Spain] [Dec 6, 2021 - Dec 9, 2021]]]></summary>
+        <author>
+            <name>CFPs on Machine Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SDE 2021 : he International Workshop for Software Defined Everything]]></title>
+        <id>cfp-901471-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=144011&amp;copyownerid=26246"/>
+        <updated>2021-08-24T00:38:54.825Z</updated>
+        <summary type="html"><![CDATA[he International Workshop for Software Defined Everything [Gandia, Spain] [Dec 6, 2021 - Dec 9, 2021]]]></summary>
+        <author>
+            <name>CFPs on Machine Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D4AIJune 2021 : Leveraging easy-to-use ML, NLP &amp; Interactive 3D Data Visualization to Uncover Key Insights with Virtualitics (12PM - 1PM ET)]]></title>
+        <id>cfp-888398-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=134927&amp;copyownerid=169298"/>
+        <updated>2021-08-24T00:38:54.807Z</updated>
+        <summary type="html"><![CDATA[Leveraging easy-to-use ML, NLP & Interactive 3D Data Visualization to Uncover Key Insights with Virtualitics (12PM - 1PM ET) [Online Virtual Event ] [Jun 10, 2021 - Jun 10, 2021]]]></summary>
+        <author>
+            <name>CFPs on Natural Language Processing : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ANLP 2021 : The 5th International Workshop on Advances in Natural Language Processing]]></title>
+        <id>cfp-901460-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=144000&amp;copyownerid=26246"/>
+        <updated>2021-08-24T00:38:54.800Z</updated>
+        <summary type="html"><![CDATA[The 5th International Workshop on Advances in Natural Language Processing [Gandia, Spain] [Dec 6, 2021 - Dec 9, 2021]]]></summary>
+        <author>
+            <name>CFPs on Machine Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAMSN 2021 : The International Workshop on Sentiment Analysis and Mining of Social Networks]]></title>
+        <id>cfp-901461-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=144001&amp;copyownerid=26246"/>
+        <updated>2021-08-24T00:38:54.790Z</updated>
+        <summary type="html"><![CDATA[The International Workshop on Sentiment Analysis and Mining of Social Networks [Gandia, Spain] [Dec 6, 2021 - Dec 9, 2021]]]></summary>
         <author>
             <name>CFPs on Machine Learning : WikiCFP</name>
         </author>
@@ -839,8 +809,28 @@
         <title type="html"><![CDATA[SIGL 2022 : 9th International Conference on Signal and Image Processing]]></title>
         <id>cfp-890686-S@wikicfp.com</id>
         <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=136303&amp;copyownerid=33993"/>
-        <updated>2021-08-23T00:37:26.080Z</updated>
+        <updated>2021-08-24T00:38:54.785Z</updated>
         <summary type="html"><![CDATA[9th International Conference on Signal and Image Processing [Vancouver, Canada] [May 28, 2022 - May 29, 2022]]]></summary>
+        <author>
+            <name>CFPs on Natural Language Processing : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HMiMS 2021 : The International Symposium on Health and Medical informatics, Management and Security]]></title>
+        <id>cfp-901463-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=144003&amp;copyownerid=26246"/>
+        <updated>2021-08-24T00:38:54.773Z</updated>
+        <summary type="html"><![CDATA[The International Symposium on Health and Medical informatics, Management and Security [Gandia, Spain] [Dec 6, 2021 - Dec 9, 2021]]]></summary>
+        <author>
+            <name>CFPs on Machine Learning : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iSAI-NLP 2021 : The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing]]></title>
+        <id>cfp-894187-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138352&amp;copyownerid=169997"/>
+        <updated>2021-08-24T00:38:54.716Z</updated>
+        <summary type="html"><![CDATA[The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing  [Ayutthaya, Thailand] [Dec 21, 2021 - Dec 23, 2021]]]></summary>
         <author>
             <name>CFPs on Natural Language Processing : WikiCFP</name>
         </author>
@@ -849,28 +839,18 @@
         <title type="html"><![CDATA[PKG 2021 : Workshop on Personal Knowledge Graphs]]></title>
         <id>cfp-895534-S@wikicfp.com</id>
         <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=139232&amp;copyownerid=170151"/>
-        <updated>2021-08-23T00:37:26.069Z</updated>
+        <updated>2021-08-24T00:38:54.701Z</updated>
         <summary type="html"><![CDATA[Workshop on Personal Knowledge Graphs [Virtual] [Oct 7, 2021 - Oct 7, 2021]]]></summary>
         <author>
             <name>CFPs on Natural Language Processing : WikiCFP</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iSAI-NLP 2021 : The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing]]></title>
-        <id>cfp-894187-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138352&amp;copyownerid=169997"/>
-        <updated>2021-08-23T00:37:26.049Z</updated>
-        <summary type="html"><![CDATA[The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing  [Ayutthaya, Thailand] [Dec 21, 2021 - Dec 23, 2021]]]></summary>
-        <author>
-            <name>CFPs on Natural Language Processing : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D4AIJune 2021 : Leveraging easy-to-use ML, NLP &amp; Interactive 3D Data Visualization to Uncover Key Insights with Virtualitics (12PM - 1PM ET)]]></title>
-        <id>cfp-888398-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=134927&amp;copyownerid=169298"/>
-        <updated>2021-08-23T00:37:26.040Z</updated>
-        <summary type="html"><![CDATA[Leveraging easy-to-use ML, NLP & Interactive 3D Data Visualization to Uncover Key Insights with Virtualitics (12PM - 1PM ET) [Online Virtual Event ] [Jun 10, 2021 - Jun 10, 2021]]]></summary>
+        <title type="html"><![CDATA[NLP 2021 : 10th International Conference on Natural Language Processing]]></title>
+        <id>cfp-895876-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=139425&amp;copyownerid=33993"/>
+        <updated>2021-08-24T00:38:54.694Z</updated>
+        <summary type="html"><![CDATA[10th International Conference on Natural Language Processing  [Sydney, Australia] [Dec 23, 2021 - Dec 24, 2021]]]></summary>
         <author>
             <name>CFPs on Natural Language Processing : WikiCFP</name>
         </author>
@@ -879,8 +859,58 @@
         <title type="html"><![CDATA[ISICS 2022 : International Symposium on Intelligent Computing Systems - ISICS 2022]]></title>
         <id>cfp-892916-S@wikicfp.com</id>
         <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137507&amp;copyownerid=77325"/>
-        <updated>2021-08-23T00:37:26.034Z</updated>
+        <updated>2021-08-24T00:38:54.687Z</updated>
         <summary type="html"><![CDATA[International Symposium on Intelligent Computing Systems - ISICS 2022  [Santiago de Chile, Chile] [Mar 23, 2022 - Mar 25, 2022]]]></summary>
+        <author>
+            <name>CFPs on Natural Language Processing : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JNLE-NLPOCO 2021 : Journal of Natural Language Engineering - Special Issue on NLP Approaches to Offensive Content Online]]></title>
+        <id>cfp-895431-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=139184&amp;copyownerid=170129"/>
+        <updated>2021-08-24T00:38:54.673Z</updated>
+        <summary type="html"><![CDATA[Journal of Natural Language Engineering - Special Issue on NLP Approaches to Offensive Content Online]]></summary>
+        <author>
+            <name>CFPs on Natural Language Processing : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iSAI-NLP 2021 : The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing]]></title>
+        <id>cfp-894229-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138387&amp;copyownerid=169997"/>
+        <updated>2021-08-24T00:38:54.660Z</updated>
+        <summary type="html"><![CDATA[The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing  [Ayutthaya, Thailand] [Dec 21, 2021 - Dec 23, 2021]]]></summary>
+        <author>
+            <name>CFPs on Natural Language Processing : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIOS 2021 : 7th International Conference on Bioinformatics &amp; Biosciences]]></title>
+        <id>cfp-894225-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138384&amp;copyownerid=33993"/>
+        <updated>2021-08-24T00:38:54.652Z</updated>
+        <summary type="html"><![CDATA[7th International Conference on Bioinformatics & Biosciences  [Dubai, UAE] [Dec 18, 2021 - Dec 19, 2021]]]></summary>
+        <author>
+            <name>CFPs on Natural Language Processing : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MLNLP 2021 : 2nd International Conference on Machine Learning Techniques and NLP]]></title>
+        <id>cfp-894620-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138700&amp;copyownerid=33993"/>
+        <updated>2021-08-24T00:38:54.634Z</updated>
+        <summary type="html"><![CDATA[2nd International Conference on Machine Learning Techniques and NLP [Copenhagen, Denmark] [Sep 18, 2021 - Sep 19, 2021]]]></summary>
+        <author>
+            <name>CFPs on Natural Language Processing : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IEEE Big Data - BDA COVID 2021 :  IEEE Big Data Workshop for COVID-19]]></title>
+        <id>cfp-893457-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137855&amp;copyownerid=169910"/>
+        <updated>2021-08-24T00:38:54.613Z</updated>
+        <summary type="html"><![CDATA[IEEE Big Data Workshop for COVID-19 [Online] [Dec 15, 2021 - Dec 18, 2021]]]></summary>
         <author>
             <name>CFPs on Natural Language Processing : WikiCFP</name>
         </author>
@@ -889,7 +919,7 @@
         <title type="html"><![CDATA[NL-Augmenter 2021 : NL-Augmenter (GEM@ACL)]]></title>
         <id>cfp-893637-S@wikicfp.com</id>
         <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137982&amp;copyownerid=150031"/>
-        <updated>2021-08-23T00:37:26.024Z</updated>
+        <updated>2021-08-24T00:38:54.602Z</updated>
         <summary type="html"><![CDATA[NL-Augmenter (GEM@ACL) [GEM@ACL 2021] [Aug 5, 2021 - Aug 6, 2021]]]></summary>
         <author>
             <name>CFPs on Natural Language Processing : WikiCFP</name>
@@ -899,68 +929,8 @@
         <title type="html"><![CDATA[IEEE-MLNLP 2021 : 2021 4th International Conference on Machine Learning and Natural Language Processing (MLNLP 2021)]]></title>
         <id>cfp-897218-S@wikicfp.com</id>
         <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=140502&amp;copyownerid=163993"/>
-        <updated>2021-08-23T00:37:26.011Z</updated>
+        <updated>2021-08-24T00:38:54.505Z</updated>
         <summary type="html"><![CDATA[2021 4th International Conference on Machine Learning and Natural Language Processing (MLNLP 2021) [Sanya, China] [Dec 27, 2021 - Dec 29, 2021]]]></summary>
-        <author>
-            <name>CFPs on Natural Language Processing : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iSAI-NLP 2021 : The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing]]></title>
-        <id>cfp-894229-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138387&amp;copyownerid=169997"/>
-        <updated>2021-08-23T00:37:26.004Z</updated>
-        <summary type="html"><![CDATA[The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing  [Ayutthaya, Thailand] [Dec 21, 2021 - Dec 23, 2021]]]></summary>
-        <author>
-            <name>CFPs on Natural Language Processing : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLNLP 2021 : 2nd International Conference on Machine Learning Techniques and NLP]]></title>
-        <id>cfp-894620-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138700&amp;copyownerid=33993"/>
-        <updated>2021-08-23T00:37:25.988Z</updated>
-        <summary type="html"><![CDATA[2nd International Conference on Machine Learning Techniques and NLP [Copenhagen, Denmark] [Sep 18, 2021 - Sep 19, 2021]]]></summary>
-        <author>
-            <name>CFPs on Natural Language Processing : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIOS 2021 : 7th International Conference on Bioinformatics &amp; Biosciences]]></title>
-        <id>cfp-894225-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=138384&amp;copyownerid=33993"/>
-        <updated>2021-08-23T00:37:25.956Z</updated>
-        <summary type="html"><![CDATA[7th International Conference on Bioinformatics & Biosciences  [Dubai, UAE] [Dec 18, 2021 - Dec 19, 2021]]]></summary>
-        <author>
-            <name>CFPs on Natural Language Processing : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IEEE Big Data - BDA COVID 2021 :  IEEE Big Data Workshop for COVID-19]]></title>
-        <id>cfp-893457-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=137855&amp;copyownerid=169910"/>
-        <updated>2021-08-23T00:37:25.936Z</updated>
-        <summary type="html"><![CDATA[IEEE Big Data Workshop for COVID-19 [Online] [Dec 15, 2021 - Dec 18, 2021]]]></summary>
-        <author>
-            <name>CFPs on Natural Language Processing : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NLP 2021 : 10th International Conference on Natural Language Processing]]></title>
-        <id>cfp-895876-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=139425&amp;copyownerid=33993"/>
-        <updated>2021-08-23T00:37:25.923Z</updated>
-        <summary type="html"><![CDATA[10th International Conference on Natural Language Processing  [Sydney, Australia] [Dec 23, 2021 - Dec 24, 2021]]]></summary>
-        <author>
-            <name>CFPs on Natural Language Processing : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JNLE-NLPOCO 2021 : Journal of Natural Language Engineering - Special Issue on NLP Approaches to Offensive Content Online]]></title>
-        <id>cfp-895431-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=139184&amp;copyownerid=170129"/>
-        <updated>2021-08-23T00:37:25.904Z</updated>
-        <summary type="html"><![CDATA[Journal of Natural Language Engineering - Special Issue on NLP Approaches to Offensive Content Online]]></summary>
         <author>
             <name>CFPs on Natural Language Processing : WikiCFP</name>
         </author>
@@ -969,18 +939,8 @@
         <title type="html"><![CDATA[IJSCMC 2021 : International Journal of Soft Computing, Mathematics and Control]]></title>
         <id>cfp-896535-S@wikicfp.com</id>
         <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=139963&amp;copyownerid=33993"/>
-        <updated>2021-08-23T00:37:25.888Z</updated>
+        <updated>2021-08-24T00:38:54.490Z</updated>
         <summary type="html"><![CDATA[International Journal of Soft Computing, Mathematics and Control]]></summary>
-        <author>
-            <name>CFPs on Natural Language Processing : WikiCFP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LKE 2021 : 8th International Symposium on Language &amp; Knowledge Engineering]]></title>
-        <id>cfp-897302-S@wikicfp.com</id>
-        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=140564&amp;copyownerid=170305"/>
-        <updated>2021-08-23T00:37:25.836Z</updated>
-        <summary type="html"><![CDATA[8th International Symposium on Language & Knowledge Engineering [Benemérita Universidad Autónoma de Puebl] [Nov 4, 2021 - Nov 4, 2021]]]></summary>
         <author>
             <name>CFPs on Natural Language Processing : WikiCFP</name>
         </author>
@@ -989,8 +949,18 @@
         <title type="html"><![CDATA[ICON 2021 : 18th International Conference  on Natural Language Processing]]></title>
         <id>cfp-897620-S@wikicfp.com</id>
         <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=140837&amp;copyownerid=170339"/>
-        <updated>2021-08-23T00:37:25.808Z</updated>
+        <updated>2021-08-24T00:38:54.480Z</updated>
         <summary type="html"><![CDATA[18th International Conference  on Natural Language Processing [NIT Silchar, India] [Dec 16, 2021 - Dec 19, 2021]]]></summary>
+        <author>
+            <name>CFPs on Natural Language Processing : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LKE 2021 : 8th International Symposium on Language &amp; Knowledge Engineering]]></title>
+        <id>cfp-897302-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=140564&amp;copyownerid=170305"/>
+        <updated>2021-08-24T00:38:54.444Z</updated>
+        <summary type="html"><![CDATA[8th International Symposium on Language & Knowledge Engineering [Benemérita Universidad Autónoma de Puebl] [Nov 4, 2021 - Nov 4, 2021]]]></summary>
         <author>
             <name>CFPs on Natural Language Processing : WikiCFP</name>
         </author>
@@ -999,8 +969,38 @@
         <title type="html"><![CDATA[NLPaSE 2021 : 2nd Workshop on Natural Language Processing Advancements for Software Engineering 2021]]></title>
         <id>cfp-899946-S@wikicfp.com</id>
         <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=142968&amp;copyownerid=170425"/>
-        <updated>2021-08-23T00:37:25.614Z</updated>
+        <updated>2021-08-24T00:38:54.429Z</updated>
         <summary type="html"><![CDATA[2nd Workshop on Natural Language Processing Advancements for Software Engineering 2021 [Taipei, Taiwan (VIRTUAL)] [Dec 6, 2021 - Dec 6, 2021]]]></summary>
+        <author>
+            <name>CFPs on Natural Language Processing : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ANLP 2021 : The 5th International Workshop on Advances in Natural Language Processing]]></title>
+        <id>cfp-901460-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=144000&amp;copyownerid=26246"/>
+        <updated>2021-08-24T00:38:54.418Z</updated>
+        <summary type="html"><![CDATA[The 5th International Workshop on Advances in Natural Language Processing [Gandia, Spain] [Dec 6, 2021 - Dec 9, 2021]]]></summary>
+        <author>
+            <name>CFPs on Natural Language Processing : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iSAI-NLP 2021 : The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing]]></title>
+        <id>cfp-901552-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=144077&amp;copyownerid=120636"/>
+        <updated>2021-08-24T00:38:54.329Z</updated>
+        <summary type="html"><![CDATA[The 16th International Joint Symposium on Artificial Intelligence and Natural Language Processing [Ayutthaya Thailand and Virtual Conferenc] [Dec 22, 2021 - Dec 23, 2021]]]></summary>
+        <author>
+            <name>CFPs on Natural Language Processing : WikiCFP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICNLP--Ei Compendex, Scopus 2022 : 2022 4th International Conference on Natural Language Processing (ICNLP 2022)--Ei Compendex, Scopus]]></title>
+        <id>cfp-901485-S@wikicfp.com</id>
+        <link href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=144019&amp;copyownerid=13881"/>
+        <updated>2021-08-24T00:38:54.300Z</updated>
+        <summary type="html"><![CDATA[2022 4th International Conference on Natural Language Processing (ICNLP 2022)--Ei Compendex, Scopus [Xi'an, China] [Mar 25, 2022 - Mar 27, 2022]]]></summary>
         <author>
             <name>CFPs on Natural Language Processing : WikiCFP</name>
         </author>
